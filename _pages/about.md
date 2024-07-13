@@ -40,6 +40,20 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Topic Scene Graph Generation by Attention Distillation from Caption](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.html)
+
+**Wenbin Wang**, Ruiping Wang, Xilin Chen
+
+<strong><span class='show_paper_citations' data='V4wFbcQAAAAJ:UeHWp8X0CEIC'></span></strong>
+
+- There exists a hierarchical preference about human perception when they analyze a natural scene. 
+- SGoI (Scene Graph of Human Interest) generation framework is proposed to present the scene graph according to the content importance.
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
