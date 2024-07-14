@@ -46,7 +46,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/TopicSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/tsg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Topic Scene Graph Generation by Attention Distillation from Caption](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.html)
@@ -61,7 +61,8 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 </div>
 </div>
 
-- ``ECCV 2024`` Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction, Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**, pp. **, 2024.
+- ``ECCV 2024`` Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction, Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**, LNCS **, pp. **, 2024.
+- ``arXiv`` [Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach](https://arxiv.org/abs/2406.09410), Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, **Wenbin Wang** et al., 2024. \| [[project]](https://linlin-dev.github.io/project/STAR.html) [![](https://img.shields.io/github/stars/Zhuzi24/SGG-ToolKit?style=social&label=SGG-Toolkit)](https://github.com/Zhuzi24/SGG-ToolKit)
 - ``IJCV 2023`` [Importance First: Generating Scene Graph of Human Interest](https://link.springer.com/article/10.1007/s11263-023-01817-7#citeas), **Wenbin Wang**, Ruiping Wang, Shiguang Shan, Xilin Chen, 131: 2489–2515, 2023. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=TGIR)](https://github.com/Kenneth-Wong/TGIR)
 - ``SCIENTIA SINICA Informationis 2022`` [Balanced Scene Graph Generation Assisted by Additional Biased Predictor](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0105), **Wenbin Wang**, Ruiping Wang, Xilin Chen, 52(11): 2075-2092, 2022. [![](https://img.shields.io/github/stars/Kenneth-Wong/ABP?style=social&label=ABP)](https://github.com/Kenneth-Wong/ABP) [[pdf]](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7267/040658AB77E741249ED256711F1CA00D-mark.pdf)
 - ``ICCV 2021`` [Topic Scene Graph Generation by Attention Distillation from Caption](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.html), **Wenbin Wang**, Ruiping Wang, Xilin Chen, pp. 15900-15910, 2021. [![](https://img.shields.io/github/stars/Kenneth-Wong/MMSceneGraph?style=social&label=MMSceneGraph)](https://github.com/Kenneth-Wong/MMSceneGraph) [[DOI]](https://ieeexplore.ieee.org/document/9710233) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.pdf)
@@ -81,7 +82,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 
 # 📚 Academic Services
 - Invited journal reviewer for
-IEEE TPAMI / IEEE TMM / IEEE PR / ESWA ...
+IEEE TPAMI / IEEE TMM / PR / ESWA ...
 - Invited conference reviewer for
 CVPR / ICCV / ECCV / NeurIPS ...
 - Member of 
