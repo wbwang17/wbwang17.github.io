@@ -21,12 +21,17 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper co-authored with Prof. [Y. Li](http://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm) is accepted by **ECCV** 2024. Congrats!
-- *2023.05*: &nbsp;🎉🎉 One paper on scene graph generation is accepted by International Journal of Computer Vision (IJCV) 2023.
+- *2024.06*: &nbsp;🎉🎉 One paper on fine-grained SGG co-authored with Prof. [Y. Li](http://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm), Wuhan University, is accepted by ECCV 2024. Congrats!
+- *2023.05*: &nbsp;🎉🎉 One paper on hierarchical SGG (SGoI) is accepted by International Journal of Computer Vision (IJCV) 2023.
+- *2022.07*: &nbsp;🎉🎉 One paper is accepted by SCIENTIA SINICA Informationis.
+- *2021.07*: &nbsp;🎉🎉 One paper on SGG and image captioning is accepted by ICCV 2021.
+- *2020.07*: &nbsp;🎉🎉 One paper on hierarchical scene graph generation is accepted by ECCV 2020.
+- *2019.03*: &nbsp;🎉🎉 One paper on visual relationship detection is accepted by CVPR 2019.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/TGIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Importance First: Generating Scene Graph of Human Interest](https://link.springer.com/article/10.1007/s11263-023-01817-7#citeas)
@@ -41,7 +46,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/TopicSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Topic Scene Graph Generation by Attention Distillation from Caption](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.html)
@@ -56,22 +61,31 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 </div>
 </div>
 
-- ``CVPR 2019`` Exploring Context and Visual Pattern of Relationship for Scene Graph Generation, 
+- ``ECCV 2024`` Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction, Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**, pp. **, 2024.
+- ``IJCV 2023`` [Importance First: Generating Scene Graph of Human Interest](https://link.springer.com/article/10.1007/s11263-023-01817-7#citeas), **Wenbin Wang**, Ruiping Wang, Shiguang Shan, Xilin Chen, 131: 2489–2515, 2023. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=TGIR)](https://github.com/Kenneth-Wong/TGIR)
+- ``SCIENTIA SINICA Informationis 2022`` [Balanced Scene Graph Generation Assisted by Additional Biased Predictor](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0105), **Wenbin Wang**, Ruiping Wang, Xilin Chen, 52(11): 2075-2092, 2022. [![](https://img.shields.io/github/stars/Kenneth-Wong/ABP?style=social&label=ABP)](https://github.com/Kenneth-Wong/ABP) [[pdf]](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7267/040658AB77E741249ED256711F1CA00D-mark.pdf)
+- ``ICCV 2021`` [Topic Scene Graph Generation by Attention Distillation from Caption](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.html), **Wenbin Wang**, Ruiping Wang, Xilin Chen, pp. 15900-15910, 2021. [![](https://img.shields.io/github/stars/Kenneth-Wong/MMSceneGraph?style=social&label=MMSceneGraph)](https://github.com/Kenneth-Wong/MMSceneGraph) [[DOI]](https://ieeexplore.ieee.org/document/9710233) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.pdf)
+- ``ECCV 2020`` [Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_14), **Wenbin Wang**, Ruiping Wang, Shiguang Shan, Xilin Chen, LNCS 12358, pp. 222–239, 2020. [![](https://img.shields.io/github/stars/Kenneth-Wong/het-eccv20?style=social&label=HET)](https://github.com/Kenneth-Wong/het=eccv20) [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580222.pdf) [[data]](https://github.com/Kenneth-Wong/het-eccv20) [[slides]](https://drive.google.com/file/d/1_47wtPPesR5C2Oz9uD2Poi-ANXzv07Yh/view?usp=sharing) [[video]](https://drive.google.com/file/d/1bbICb2oh4A4nLtSkf45mSBrxpksf7FNn/view?usp=sharing) [[arXiv]](https://arxiv.org/pdf/2007.08760.pdf) [[proc.]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58601-0.pdf) [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580222-supp.pdf)
+- ``CVPR 2019`` [Exploring Context and Visual Pattern of Relationship for Scene Graph Generation](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.html), **Wenbin Wang**, Ruiping Wang, Shiguang Shan, Xilin Chen, pp. 8188–8197, Long Beach, CA, US, 2019. [![](https://img.shields.io/github/stars/Kenneth-Wong/sceneGraph_Mem?style=social&label=CISC)](https://github.com/Kenneth-Wong/sceneGraph_Mem) [[DOI]](https://doi.org/10.1109/CVPR.2019.00838) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.pdf) [[proc.]](https://ieeexplore.ieee.org/xpl/conhome/8938205/proceeding)
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
-- 
+
+
 # 📖 Educations
 - *2017.09 - 2022.09*, Ph.D., Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.
 - *2013.09 - 2017.06*, Undergraduate, Nankai University, Tianjin, China.
 
 # 📚 Academic Services
 - Invited journal reviewer for
-IEEE TPAMI / IEEE TMM  ...
+IEEE TPAMI / IEEE TMM / IEEE PR / ESWA ...
 - Invited conference reviewer for
 CVPR / ICCV / ECCV / NeurIPS ...
+- Member of 
+CCF, CAAI, CSIG ...
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
