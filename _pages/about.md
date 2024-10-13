@@ -84,15 +84,13 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 - *2013.09 - 2017.06*, Undergraduate, Nankai University, Tianjin, China.
 
 # 🎓 Team Members
-* Master students
-  - Zhiwei Cai
-  - Yiheng Chen
-  - Qiwen Gong
-  - Haocheng Fu
-  - Shunfa He
-* Undergraduates
-  - Shiwen Tu
-  - Xiaojun Xiang
+* Master students: 
+  - Zhiwei Cai (2024-) 
+  - [Yiheng Chen](https://qikert-zhushu.github.io/cyh.github.io/) (2024-)
+  - [Qiwen Gong](https://gongqiwen03.github.io/) (2024-)
+  - Haocheng Fu (2024-)
+  - Shunfa He (2024-)
+* Undergraduates: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
 
 # 📚 Academic Services
 - Invited journal reviewer for
