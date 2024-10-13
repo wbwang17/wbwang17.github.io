@@ -61,7 +61,10 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 </div>
 </div>
 
-- ``ECCV 2024`` Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction, Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**, LNCS **, pp. **, 2024. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=SBG)](https://github.com/Zhuzi24/SBG) [[arXiv]](https://arxiv.org/pdf/2407.19259)
+- ``ECCV 2024`` Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction, Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**, LNCS **, pp. **, 2024. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=SBG)](https://github.com/Zhuzi24/SBG) 
+[[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03698.pdf)
+[[arXiv]](https://arxiv.org/pdf/2407.19259)
+[[supp]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03698-supp.pdf)
 - ``arXiv`` [STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery](https://arxiv.org/abs/2406.09410), Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, **Wenbin Wang** et al., 2024. [![](https://img.shields.io/github/stars/Zhuzi24/SGG-ToolKit?style=social&label=SGG-Toolkit)](https://github.com/Zhuzi24/SGG-ToolKit) [[project]](https://linlin-dev.github.io/project/STAR.html) 
 - ``IJCV 2023`` [Importance First: Generating Scene Graph of Human Interest](https://link.springer.com/article/10.1007/s11263-023-01817-7#citeas), **Wenbin Wang**, Ruiping Wang, Shiguang Shan, Xilin Chen, 131: 2489–2515, 2023. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=TGIR)](https://github.com/Kenneth-Wong/TGIR)
 - ``SCIENTIA SINICA Informationis 2022`` [Balanced Scene Graph Generation Assisted by Additional Biased Predictor](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0105), **Wenbin Wang**, Ruiping Wang, Xilin Chen, 52(11): 2075-2092, 2022. [![](https://img.shields.io/github/stars/Kenneth-Wong/ABP?style=social&label=ABP)](https://github.com/Kenneth-Wong/ABP) [[pdf]](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7267/040658AB77E741249ED256711F1CA00D-mark.pdf)
@@ -80,13 +83,29 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 - *2017.09 - 2022.09*, Ph.D., Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.
 - *2013.09 - 2017.06*, Undergraduate, Nankai University, Tianjin, China.
 
+# 🎓 Team Members
+* Master students
+  - Zhiwei Cai
+  - Yiheng Chen
+  - Qiwen Gong
+  - Haocheng Fu
+  - Shunfa He
+* Undergraduates
+  - Shiwen Tu
+  - Xiaojun Xiang
+
 # 📚 Academic Services
 - Invited journal reviewer for
-IEEE TPAMI / IEEE TMM / PR / ESWA ...
+IEEE TPAMI / IEEE TMM / PR / ESWA
 - Invited conference reviewer for
-CVPR / ICCV / ECCV / NeurIPS ...
+CVPR / ICCV / ECCV / NeurIPS
 - Member of 
-CCF, CAAI, CSIG ...
+CCF, CAAI, CSIG
+
+# 📁 Fundings
+- Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
+- Research on semantic analysis of remote sensing scenes based on scene graph. Science Foundation of China Three Gorges University (Grant No. 2023RCKJ0022), 2023.10~2026.10
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
