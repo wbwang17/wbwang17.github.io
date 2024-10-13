@@ -104,6 +104,12 @@ CCF, CAAI, CSIG
 - Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
 - Research on semantic analysis of remote sensing scenes based on scene graph. Science Foundation of China Three Gorges University (Grant No. 2023RCKJ0022), 2023.10~2026.10
 
+# 📚 Teaching
+* Graduate courses
+  - Academic norms and writings, Fall, 2024
+
+* Undergraduate courses
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
