@@ -90,7 +90,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
   - [Qiwen Gong](https://gongqiwen03.github.io/) (2024-)
   - [Haocheng Fu](https://fuhaocheng.github.io/) (2024-)
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
-* Undergraduates: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
+* Undergraduates: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang 
 
 # 📚 Academic Services
 - Invited journal reviewer for
