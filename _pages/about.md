@@ -86,7 +86,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 # 🎓 Team Members
 * Master students: 
   - [Zhiwei Cai](https://daffodil305.github.io/) (2024-) 
-  - [Yiheng Chen](https://qikert-zhushu.github.io/cyh.github.io/) (2024-)
+  - [Yiheng Chen](https://qikert-zhushu.github.io/) (2024-)
   - [Qiwen Gong](https://gongqiwen03.github.io/) (2024-)
   - [Haocheng Fu](https://fuhaocheng.github.io/) (2024-)
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
