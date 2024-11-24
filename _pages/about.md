@@ -97,8 +97,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 IEEE TPAMI / IEEE TMM / PR / ESWA
 - Invited conference reviewer for
 CVPR / ICCV / ECCV / NeurIPS
-- Member of 
-CCF, CAAI, CSIG
+- Member of the Intelligent Service Professional Committee, Chinese Association for Artificial Intelligence (CAAI)（人工智能学会智能服务专业委员会委员）
 
 # 📁 Fundings
 - Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
