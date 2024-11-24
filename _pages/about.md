@@ -21,6 +21,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
 - *2024.06*: &nbsp;🎉🎉 One paper on fine-grained SGG co-authored with Prof. [Y. Li](http://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm), Wuhan University, is accepted by ECCV 2024. Congrats!
 - *2023.05*: &nbsp;🎉🎉 One paper on hierarchical SGG (SGoI) is accepted by International Journal of Computer Vision (IJCV) 2023.
 - *2022.07*: &nbsp;🎉🎉 One paper is accepted by SCIENTIA SINICA Informationis.
@@ -74,7 +75,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 
 
 # 🎖 Honors and Awards
-- Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics, 2024. 
+- Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics (CSIG), 2024. 
 - Chutian Scholar Talent Program of Hubei Province (湖北省“楚天学子”人才计划), 2024.
 
 
