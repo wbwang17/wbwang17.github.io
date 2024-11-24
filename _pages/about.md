@@ -73,10 +73,9 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 - ``CVPR 2019`` [Exploring Context and Visual Pattern of Relationship for Scene Graph Generation](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.html), **Wenbin Wang**, Ruiping Wang, Shiguang Shan, Xilin Chen, pp. 8188–8197, Long Beach, CA, US, 2019. [![](https://img.shields.io/github/stars/Kenneth-Wong/sceneGraph_Mem?style=social&label=CISC)](https://github.com/Kenneth-Wong/sceneGraph_Mem) [[DOI]](https://doi.org/10.1109/CVPR.2019.00838) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.pdf) [[proc.]](https://ieeexplore.ieee.org/xpl/conhome/8938205/proceeding)
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+# 🎖 Honors and Awards
+- Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics, 2024. 
+- Chutian Scholar Talent Program of Hubei Province (湖北省“楚天学子”人才计划), 2024.
 
 
 # 📖 Educations
