@@ -75,7 +75,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 
 
 # 🎖 Honors and Awards
-- Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics (CSIG), 2024. 
+- Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024. 
 - Chutian Scholar Talent Program of Hubei Province (湖北省“楚天学子”人才计划), 2024.
 
 
@@ -98,6 +98,7 @@ IEEE TPAMI / IEEE TMM / PR / ESWA
 - Invited conference reviewer for
 CVPR / ICCV / ECCV / NeurIPS
 - Member of the Intelligent Service Professional Committee, Chinese Association for Artificial Intelligence (CAAI)（人工智能学会智能服务专业委员会委员）
+- Member of CCF, CSIG
 
 # 📁 Fundings
 - Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
