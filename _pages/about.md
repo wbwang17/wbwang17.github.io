@@ -76,7 +76,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 
 # 🎖 Honors and Awards
 - Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024. 
-- Chutian Scholar Talent Program of Hubei Province (湖北省“楚天学子”人才计划), 2024.
+- Chutian Scholar Talent Program of Hubei Province (湖北省“楚天学子”人才计划).
 
 
 # 📖 Educations
