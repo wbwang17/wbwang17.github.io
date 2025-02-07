@@ -62,7 +62,7 @@ Wenbin Wang is currently an Assistant Professor in College of Computer and Infor
 - **CODE release**: [MMSceneGraph ![](https://img.shields.io/github/stars/Kenneth-Wong/MMSceneGraph?style=social)](https://github.com/Kenneth-Wong/MMSceneGraph): an SGG toolkit based on MMdetection, including most SOTA SGG methods.
 </div>
 </div>
-- ``TVC 2024`` Tang Xu, **Wenbin Wang** *, ALin Zhong. HOIEdit: Human-Object Interaction Editing with Text-to-Image Diffusion Model, vol.xx, no.xx, pages xx-xx, 2024.
+- ``TVC 2025`` Tang Xu, **Wenbin Wang** *, ALin Zhong. [HOIEdit: Human-Object Interaction Editing with Text-to-Image Diffusion Model](https://doi.org/10.1007/s00371-024-03781-w), vol.xx, no.xx, pages xx-xx, 2025.
 - ``ECCV 2024`` Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**. [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](https://www.ecva.net/papers.php), vol. 15084, pages 18-35, 2024. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=SBG)](https://github.com/Zhuzi24/SBG) 
 [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03698.pdf)
 [[DOI]](https://link.springer.com/chapter/10.1007/978-3-031-73347-5_2)
