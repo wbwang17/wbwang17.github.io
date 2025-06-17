@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbin Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "China Three Gorges University"
-  location         : "Yichang, Hubei, China"
+  bio              : #"China Three Gorges University"
+  location         : #"Yichang, Hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V4wFbcQAAAAJ"
