@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenbin Wang is currently an Assistant Professor in College of Computer and Information Technology, China Three Gorges University. Previously, he obtained his Ph.D. degree in the Key Lab. of Intelligent Information Processing (IIP) at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Wenbin Wang obtained his Ph.D. degree in the Key Lab. of Intelligent Information Processing (IIP) at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (CCF-C). This is the first work on AIGC of our group.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (CCF-C).
 - *2024.11*: &nbsp;🎉🎉 Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
 - *2024.06*: &nbsp;🎉🎉 One paper on fine-grained SGG co-authored with Prof. [Y. Li](http://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm), Wuhan University, is accepted by ECCV 2024. Congrats!
 - *2023.05*: &nbsp;🎉🎉 One paper on hierarchical SGG (SGoI) is accepted by International Journal of Computer Vision (IJCV) 2023.
@@ -80,7 +80,7 @@ Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Imag
 
 # 🎖 Honors and Awards
 - Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024. 
-- Chutian Scholar Talent Program of Hubei Province (湖北省“楚天学子”人才计划).
+- Chutian Scholar Talent Program of Hubei Province.
 
 
 # 📖 Educations
@@ -106,7 +106,7 @@ CVPR / ICCV / ECCV / NeurIPS
 
 # 📁 Fundings
 - Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
-- Research on semantic analysis of remote sensing scenes based on scene graph. Science Foundation of China Three Gorges University (Grant No. 2023RCKJ0022), 2023.10~2026.10
+<!-- - Research on semantic analysis of remote sensing scenes based on scene graph. Science Foundation of China Three Gorges University (Grant No. 2023RCKJ0022), 2023.10~2026.10 -->
 
 # 📚 Teaching
 * Graduate courses
