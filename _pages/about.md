@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenbin Wang obtained his Ph.D. degree in the Key Lab. of Intelligent Information Processing (IIP) at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Wenbin Wang is the Postdoctoral Fellow (via RTH-ITF project) working with <a href='https://bingcs.github.io/'>Prof. Bing Wang</a> at the Hong Kong Polytechnic University (PolyU). He obtained his Ph.D. degree in the Key Lab. of Intelligent Information Processing (IIP) at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
@@ -79,7 +79,7 @@ Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Imag
 
 
 # 🎖 Honors and Awards
-- Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024. 
+- *Nomination Award of the Doctoral Dissertation Incentive Program*, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024. 
 - Chutian Scholar Talent Program of Hubei Province.
 
 
@@ -101,8 +101,7 @@ Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Imag
 IEEE TPAMI / IEEE TMM / PR / ESWA
 - Invited conference reviewer for
 CVPR / ICCV / ECCV / NeurIPS
-- Member of the Intelligent Service Professional Committee, Chinese Association for Artificial Intelligence (CAAI)（人工智能学会智能服务专业委员会委员）
-- Member of CCF, CSIG
+- Member of the CAAI (Intelligent Service Professional Committee), CCF, CSIG
 
 # 📁 Fundings
 - Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
