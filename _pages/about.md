@@ -63,7 +63,7 @@ Wenbin Wang is the Postdoctoral Fellow (via RTH-ITF project) working with <a hre
 </div>
 </div>
 - ``TCSVT 2025`` Hang Sun, Qingfei Zhong, Bo Du, Zhigang Tu, Jun Wan, **Wenbin Wang** *, Dong Ren. [
-Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11006655), 2025. 
+Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11006655),vol.35, no.11, 10649-10664, 2025. 
 - ``TVC 2025`` Tang Xu, **Wenbin Wang** *, ALin Zhong. [HOIEdit: Human-Object Interaction Editing with Text-to-Image Diffusion Model](https://doi.org/10.1007/s00371-024-03781-w), vol.41, pages 6187-6189, 2025.
 - ``ECCV 2024`` Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**. [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](https://www.ecva.net/papers.php), vol. 15084, pages 18-35, 2024. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=SBG)](https://github.com/Zhuzi24/SBG) 
 [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03698.pdf)
