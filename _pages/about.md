@@ -88,13 +88,14 @@ Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Imag
 - *2013.09 - 2017.06*, Undergraduate, Nankai University, Tianjin, China.
 
 # 🎓 Team Members
-* Master students: 
+<!--* Master students: 
   - [Zhiwei Cai](https://daffodil305.github.io/) (2024-) 
   - [Yiheng Chen](https://qikert-zhushu.github.io/) (2024-)
   - [Qiwen Gong](https://gongqiwen03.github.io/) (2024-)
   - [Haocheng Fu](https://fuhaocheng.github.io/) (2024-)
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
 * Undergraduates: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang 
+-->
 
 # 📚 Academic Services
 - Invited journal reviewer for
