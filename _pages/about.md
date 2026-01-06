@@ -66,7 +66,7 @@ Wenbin Wang obtained his Ph.D. degree in the Key Lab. of Intelligent Information
 </div>
 - ``JSTAR 2026`` Lu Wang, Chenyang Wang, Runzhou Li, Junbo Yu, Hang Sun, **Wenbin Wang** *, and Dong Ren. [MDFANet: Multidimensional Feature Alignment Network for Self-Supervised Pretraining in Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11300930). JSTAR, vol. 19, pp. 2355-2372, 2026. 
 - ``TCSVT 2025`` Hang Sun, Qingfei Zhong, Bo Du, Zhigang Tu, Jun Wan, **Wenbin Wang** *, Dong Ren. [
-Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11006655). TCSVT, vol. 35, no. 11,pp. 10649-10664, 2025. 
+Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11006655). TCSVT, vol. 35, no. 11, pp. 10649-10664, 2025. 
 - ``TVC 2025`` Tang Xu, **Wenbin Wang** *, ALin Zhong. [HOIEdit: Human-Object Interaction Editing with Text-to-Image Diffusion Model](https://doi.org/10.1007/s00371-024-03781-w). The Visual Computer, vol. 41, pp. 6187-6199, 2025.
 - ``ECCV 2024`` Yansheng Li, Tingzhu Wang, Kang Wu, Linlin Wang, Xin Guo, **Wenbin Wang**. [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](https://www.ecva.net/papers.php). In ECCV, vol. 15084, pp. 18-35, 2024. [![](https://img.shields.io/github/stars/Kenneth-Wong/TGIR?style=social&label=SBG)](https://github.com/Zhuzi24/SBG) 
 [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03698.pdf)
