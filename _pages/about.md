@@ -30,7 +30,7 @@ redirect_from:
   <div class="home-profile__content">
     <h1>Wenbin Wang</h1>
     <p class="home-profile__tagline">{{ site.description }}</p>
-    <p>Wenbin Wang obtained his Ph.D. degree in the Key Lab. of Intelligent Information Processing (IIP) at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
+    <p>Wenbin Wang obtained his Ph.D. degree in the <a href='https://vipl.ict.ac.cn/'>VIPL group</a> of the <a href='https://iip.ict.ac.cn/'>Key Lab. of Intelligent Information Processing (IIP)</a> at <a href='https://www.ict.ac.cn/'>Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
     <div class="home-profile__links">
       {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a>{% endif %}
       {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>{% endif %}
@@ -114,14 +114,6 @@ redirect_from:
 # 🎖 Honors and Awards
 - *Nomination Award of the Doctoral Dissertation Incentive Program*, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024.
 - Chutian Scholar Talent Program of Hubei Province.
-
-</section>
-
-<section class="home-section" id="educations" markdown="1">
-
-# 📖 Educations
-- *2017.09 - 2022.09*, Ph.D., Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.
-- *2013.09 - 2017.06*, Undergraduate, Nankai University, Tianjin, China.
 
 </section>
 

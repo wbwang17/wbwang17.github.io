@@ -27,7 +27,7 @@ alt_url: /
   <div class="home-profile__content">
     <h1>王文彬</h1>
     <p class="home-profile__tagline">{{ site.description }}</p>
-    <p>王文彬博士毕业于中国科学院计算技术研究所（ICT）智能信息处理重点实验室（IIP），导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他的研究兴趣包括但不限于空间智能、场景理解、目标检测、场景图生成和 AIGC。<a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
+    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组</a>，导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他的研究兴趣包括但不限于空间智能、场景理解、目标检测、场景图生成和 AIGC。<a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
     <div class="home-profile__links">
       {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> 邮箱</a>{% endif %}
       {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>{% endif %}
@@ -111,14 +111,6 @@ alt_url: /
 # 🎖 荣誉奖励
 - *中国图象图形学学会博士学位论文激励计划提名奖*，2024。
 - 湖北省楚天学者人才计划。
-
-</section>
-
-<section class="home-section" id="educations" markdown="1">
-
-# 📖 教育经历
-- *2017.09 - 2022.09*，博士，中国科学院计算技术研究所，中国北京。
-- *2013.09 - 2017.06*，本科，南开大学，中国天津。
 
 </section>
 
