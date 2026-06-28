@@ -44,16 +44,15 @@ redirect_from:
 <section class="home-section" id="news" markdown="1">
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by IEEE TGRS.
-- *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (CCF-C).
-- *2024.11*: &nbsp;🎉🎉 Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
-- *2024.06*: &nbsp;🎉🎉 One paper on fine-grained SGG co-authored with Prof. [Y. Li](http://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm), Wuhan University, is accepted by ECCV 2024. Congrats!
-- *2023.05*: &nbsp;🎉🎉 One paper on hierarchical SGG (SGoI) is accepted by International Journal of Computer Vision (IJCV) 2023.
-- *2022.07*: &nbsp;🎉🎉 One paper is accepted by SCIENTIA SINICA Informationis.
-- *2021.07*: &nbsp;🎉🎉 One paper on SGG and image captioning is accepted by ICCV 2021.
-- *2020.07*: &nbsp;🎉🎉 One paper on hierarchical scene graph generation is accepted by ECCV 2020.
-- *2019.03*: &nbsp;🎉🎉 One paper on visual relationship detection is accepted by CVPR 2019.
+- *2026.05*: &nbsp; Two papers are accepted by IEEE TGRS.
+- *2025.12*: &nbsp; One paper is accepted by IEEE TCSVT.
+- *2024.12*: &nbsp; One paper is accepted by The Visual Computer (CCF-C).
+- *2024.11*: &nbsp; Dr. Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
+- *2023.05*: &nbsp; One paper on hierarchical SGG (SGoI) is accepted by International Journal of Computer Vision (IJCV) 2023.
+- *2022.07*: &nbsp; One paper is accepted by SCIENTIA SINICA Informationis.
+- *2021.07*: &nbsp; One paper on SGG and image captioning is accepted by ICCV 2021.
+- *2020.07*: &nbsp; One paper on hierarchical scene graph generation is accepted by ECCV 2020.
+- *2019.03*: &nbsp; One paper on visual relationship detection is accepted by CVPR 2019.
 
 </section>
 

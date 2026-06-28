@@ -27,7 +27,7 @@ alt_url: /
   <div class="home-profile__content">
     <h1>王文彬</h1>
     <p class="home-profile__tagline">{{ site.description }}</p>
-    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组</a>，导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他的研究兴趣包括但不限于空间智能、场景理解、目标检测、场景图生成和 AIGC。<a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
+    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组（VIPL）</a>，导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他的研究兴趣包括但不限于空间智能、场景理解、目标检测、场景图生成和 AIGC。<a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
     <div class="home-profile__links">
       {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> 邮箱</a>{% endif %}
       {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>{% endif %}
@@ -41,16 +41,15 @@ alt_url: /
 <section class="home-section" id="news" markdown="1">
 
 # 🔥 新闻
-- *2026.05*: &nbsp;🎉🎉 两篇论文被 IEEE TGRS 接收。
-- *2025.12*: &nbsp;🎉🎉 一篇论文被 IEEE TCSVT 接收。
-- *2024.12*: &nbsp;🎉🎉 一篇论文被 The Visual Computer（CCF-C）接收。
-- *2024.11*: &nbsp;🎉🎉 王文彬获得[中国图象图形学学会（CSIG）博士学位论文激励计划提名奖](https://www.csig.org.cn/23/202411/52239.html)。
-- *2024.06*: &nbsp;🎉🎉 与武汉大学 [Y. Li 教授](http://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm)合作的细粒度场景图生成论文被 ECCV 2024 接收，祝贺！
-- *2023.05*: &nbsp;🎉🎉 一篇关于层次化场景图生成（SGoI）的论文被 International Journal of Computer Vision（IJCV）2023 接收。
-- *2022.07*: &nbsp;🎉🎉 一篇论文被《中国科学：信息科学》接收。
-- *2021.07*: &nbsp;🎉🎉 一篇关于场景图生成和图像描述的论文被 ICCV 2021 接收。
-- *2020.07*: &nbsp;🎉🎉 一篇关于层次化场景图生成的论文被 ECCV 2020 接收。
-- *2019.03*: &nbsp;🎉🎉 一篇关于视觉关系检测的论文被 CVPR 2019 接收。
+- *2026.05*: &nbsp; 两篇论文被 IEEE TGRS 接收。
+- *2025.12*: &nbsp; 一篇论文被 IEEE TCSVT 接收。
+- *2024.12*: &nbsp; 一篇论文被 The Visual Computer（CCF-C）接收。
+- *2024.11*: &nbsp; 王文彬博士获得[中国图象图形学学会（CSIG）博士学位论文激励计划提名奖](https://www.csig.org.cn/23/202411/52239.html)。
+- *2023.05*: &nbsp; 一篇关于层次化场景图生成（SGoI）的论文被 International Journal of Computer Vision（IJCV）2023 接收。
+- *2022.07*: &nbsp; 一篇论文被《中国科学：信息科学》接收。
+- *2021.07*: &nbsp; 一篇关于场景图生成和图像描述的论文被 ICCV 2021 接收。
+- *2020.07*: &nbsp; 一篇关于层次化场景图生成的论文被 ECCV 2020 接收。
+- *2019.03*: &nbsp; 一篇关于视觉关系检测的论文被 CVPR 2019 接收。
 
 </section>
 
