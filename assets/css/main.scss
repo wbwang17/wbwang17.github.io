@@ -40,6 +40,125 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+#main.home-wide-main {
+    max-width: 1120px;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.page--wide-home {
+    float: none;
+    width: 100%;
+    padding: 0;
+
+    @include breakpoint($large) {
+        float: none;
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+.home-section {
+    padding: 1.25em 0;
+    scroll-margin-top: 4em;
+}
+
+.page--wide-home .page__content {
+    #about-me {
+        margin-top: 0;
+
+        &:before {
+            display: none;
+            height: 0;
+            margin-top: 0;
+        }
+    }
+
+    h1:before,
+    .anchor:before {
+        display: none;
+        height: 0;
+        margin-top: 0;
+    }
+}
+
+.home-welcome {
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+
+    h1 {
+        margin-top: 0;
+        font-size: $type-size-1;
+        border-bottom: 0;
+    }
+
+    p {
+        max-width: 900px;
+        font-size: $type-size-4;
+        line-height: 1.65;
+        color: $dark-gray;
+    }
+}
+
+.home-profile {
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    gap: 2em;
+    align-items: start;
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+    padding-top: 2em;
+    padding-bottom: 2em;
+
+    @include breakpoint(max-width $medium) {
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
+}
+
+.home-profile__avatar img {
+    width: 150px;
+    max-width: 100%;
+    border-radius: 50%;
+    border: 1px solid $border-color;
+    padding: 5px;
+}
+
+.home-profile__content {
+    h1 {
+        margin-top: 0;
+        border-bottom: 0;
+    }
+
+    p {
+        line-height: 1.65;
+    }
+}
+
+.home-profile__tagline {
+    color: $gray;
+    font-size: $type-size-5;
+}
+
+.home-profile__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5em 1em;
+    margin-top: 1em;
+
+    a {
+        text-decoration: none;
+        white-space: nowrap;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

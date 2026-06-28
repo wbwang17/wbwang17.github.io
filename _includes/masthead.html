@@ -7,13 +7,13 @@
           {% if page.lang == "zh" %}
             {% assign nav_links = site.data.navigation_zh.main %}
             {% assign home_label = "首页" %}
-            {% assign home_url = "/zh/#about-me" %}
+            {% assign home_url = "/zh/" %}
             {% assign switch_label = "English" %}
             {% assign switch_url = page.alt_url | default: "/" %}
           {% else %}
             {% assign nav_links = site.data.navigation.main %}
             {% assign home_label = "Homepage" %}
-            {% assign home_url = "/#about-me" %}
+            {% assign home_url = "/" %}
             {% assign switch_label = "中文" %}
             {% assign switch_url = page.alt_url | default: "/zh/" %}
           {% endif %}
