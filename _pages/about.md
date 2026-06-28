@@ -1,5 +1,5 @@
 ---
-layout: home-wide
+layout: home-wide 
 permalink: /
 title: ""
 excerpt: ""
