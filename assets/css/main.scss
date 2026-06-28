@@ -121,11 +121,13 @@
 
 .home-profile__avatar img {
     width: 180px;
+    height: 180px;
     max-width: 100%;
-    height: auto;
+    object-fit: cover;
+    object-position: center top;
     border-radius: 0;
     border: 1px solid $border-color;
-    padding: 5px;
+    padding: 0;
 }
 
 .home-profile__content {
