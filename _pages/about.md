@@ -44,7 +44,7 @@ redirect_from:
 <section class="home-section" id="news" markdown="1">
 
 # 🔥 News
-- *2026.05*: &nbsp; Two papers are accepted by IEEE TGRS.
+- *2026.05*: &nbsp; A paper is accepted by IEEE TGRS.
 - *2025.12*: &nbsp; One paper is accepted by IEEE TCSVT.
 - *2024.12*: &nbsp; One paper is accepted by The Visual Computer (CCF-C).
 - *2024.11*: &nbsp; Dr. Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
@@ -89,7 +89,7 @@ redirect_from:
 - **CODE release**: [MMSceneGraph ![](https://img.shields.io/github/stars/Kenneth-Wong/MMSceneGraph?style=social)](https://github.com/Kenneth-Wong/MMSceneGraph): an SGG toolkit based on MMdetection, including most SOTA SGG methods.
 </div>
 </div>
-- ``TGRS 2026`` Dong Ren, Yang Zhang, **Wenbin Wang** *, Gui-Song Xia, and Xiang Bai. [CaUCD: Causal Unsupervised Change Detection](https://ieeexplore.ieee.org/document/11556470). IEEE TGRS, vol. 64, Art. No. 4410718, 2026.
+<!-- - ``TGRS 2026`` Dong Ren, Yang Zhang, **Wenbin Wang** *, Gui-Song Xia, and Xiang Bai. [CaUCD: Causal Unsupervised Change Detection](https://ieeexplore.ieee.org/document/11556470). IEEE TGRS, vol. 64, Art. No. 4410718, 2026. -->
 - ``TGRS 2026`` Hang Sun, Runzhou Li, Chenyang Wang, Lefei Zhang, Dong Ren, and **Wenbin Wang** *. [Frequency-Domain Heterogeneous Rank-Entropy Bipolarization Network for Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11500502). IEEE TGRS, vol. 64, Art. No. 5621517, 2026.
 - ``JSTAR 2025`` Lu Wang, Chenyang Wang, Runzhou Li, Junbo Yu, Hang Sun, **Wenbin Wang** *, and Dong Ren. [MDFANet: Multidimensional Feature Alignment Network for Self-Supervised Pretraining in Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11300930). IEEE JSTAR, vol. 19, pp. 2355-2372, 2025.
 - ``TCSVT 2025`` Hang Sun, Qingfei Zhong, Bo Du, Zhigang Tu, Jun Wan, **Wenbin Wang** *, Dong Ren. [Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11006655). IEEE TCSVT, vol. 35, no. 11, pp. 10649-10664, 2025.

@@ -41,7 +41,7 @@ alt_url: /
 <section class="home-section" id="news" markdown="1">
 
 # 🔥 新闻
-- *2026.05*: &nbsp; 两篇论文被 IEEE TGRS 接收。
+- *2026.05*: &nbsp; 一篇论文被 IEEE TGRS 接收。
 - *2025.12*: &nbsp; 一篇论文被 IEEE TCSVT 接收。
 - *2024.12*: &nbsp; 一篇论文被 The Visual Computer（CCF-C）接收。
 - *2024.11*: &nbsp; 王文彬博士获得[中国图象图形学学会（CSIG）博士学位论文激励计划提名奖](https://www.csig.org.cn/23/202411/52239.html)。
@@ -86,7 +86,7 @@ alt_url: /
 - **代码发布**: [MMSceneGraph ![](https://img.shields.io/github/stars/Kenneth-Wong/MMSceneGraph?style=social)](https://github.com/Kenneth-Wong/MMSceneGraph)：一个基于 MMDetection 的场景图生成工具箱，包含多数 SOTA 场景图生成方法。
 </div>
 </div>
-- ``TGRS 2026`` Dong Ren, Yang Zhang, **Wenbin Wang** *, Gui-Song Xia, and Xiang Bai. [CaUCD: Causal Unsupervised Change Detection](https://ieeexplore.ieee.org/document/11556470). IEEE TGRS, vol. 64, Art. No. 4410718, 2026.
+<!-- - ``TGRS 2026`` Dong Ren, Yang Zhang, **Wenbin Wang** *, Gui-Song Xia, and Xiang Bai. [CaUCD: Causal Unsupervised Change Detection](https://ieeexplore.ieee.org/document/11556470). IEEE TGRS, vol. 64, Art. No. 4410718, 2026.-->
 - ``TGRS 2026`` Hang Sun, Runzhou Li, Chenyang Wang, Lefei Zhang, Dong Ren, and **Wenbin Wang** *. [Frequency-Domain Heterogeneous Rank-Entropy Bipolarization Network for Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11500502). IEEE TGRS, vol. 64, Art. No. 5621517, 2026.
 - ``JSTAR 2025`` Lu Wang, Chenyang Wang, Runzhou Li, Junbo Yu, Hang Sun, **Wenbin Wang** *, and Dong Ren. [MDFANet: Multidimensional Feature Alignment Network for Self-Supervised Pretraining in Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11300930). IEEE JSTAR, vol. 19, pp. 2355-2372, 2025.
 - ``TCSVT 2025`` Hang Sun, Qingfei Zhong, Bo Du, Zhigang Tu, Jun Wan, **Wenbin Wang** *, Dong Ren. [Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/abstract/document/11006655). IEEE TCSVT, vol. 35, no. 11, pp. 10649-10664, 2025.
