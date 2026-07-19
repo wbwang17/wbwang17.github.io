@@ -1,6 +1,6 @@
 ---
 layout: home-wide
-permalink: /zh/
+permalink: /zh/ 
 title: ""
 excerpt: ""
 author_profile: false
