@@ -44,7 +44,7 @@ redirect_from:
 <section class="home-section" id="news" markdown="1">
 
 # 🔥 News
-- *2026.05*: &nbsp; A paper is accepted by IEEE TGRS.
+- *2026.05*: &nbsp; A paper is accepted by IEEE TGRS. 
 - *2025.12*: &nbsp; One paper is accepted by IEEE TCSVT.
 - *2024.12*: &nbsp; One paper is accepted by The Visual Computer (CCF-C).
 - *2024.11*: &nbsp; Dr. Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
