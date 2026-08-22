@@ -16,8 +16,13 @@ alt_url: /
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <section class="home-section home-welcome" id="home" markdown="1">
-  <h1>欢迎加入我们的团队</h1>
-  <p>我们关注空间智能、场景理解、目标检测、场景图生成和 AIGC 等研究方向。欢迎对视觉智能和空间智能感兴趣的同学与合作者联系，一起探索相关问题。</p>
+  <p class="home-welcome__title">欢迎加入我们的团队</p>
+  <p>我们的研究聚焦于多模态空间智能、场景的结构化与组合式理解，以及相关技术在遥感解译和水下环境理解中的应用。具体涉及的技术方向包括：</p>
+  <ul class="home-welcome__interests">
+    <li>MLLM 辅助的空间推理，例如目标导航、视觉语言导航和多模态推理。</li>
+    <li>场景图生成，例如遥感场景图生成和水下场景图生成。</li>
+    <li>变化检测、语义分割和实例分割。</li>
+  </ul>
 </section>
 
 <section class="home-section home-profile" id="about-me" markdown="1">

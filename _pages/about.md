@@ -19,8 +19,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <section class="home-section home-welcome" id="home" markdown="1">
-  <h1>Welcome to Our Group</h1>
-  <p>We are interested in spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. We welcome students and collaborators who share these interests to explore visual and spatial intelligence together.</p>
+  <p class="home-welcome__title">Welcome to Our Group</p>
+  <p>Our research focuses on multimodal spatial intelligence, structural and compositional understanding of scenes, and the application of these techniques to remote sensing interpretation and underwater environment understanding. These involve techniques like: </p>
+  <ul class="home-welcome__interests">
+    <li>MLLM-assisted Spatial Reasoning, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal reasoning.</li>
+    <li>Scene Graph Generation, e.g., Remote Sensing / Under-water Scene Graph Generation. </li>
+    <li>Change Detection, Semantic Segmentation, and Instance Segmentation.</li>
+  </ul>
 </section>
 
 <section class="home-section home-profile" id="about-me" markdown="1">
