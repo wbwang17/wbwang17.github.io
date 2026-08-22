@@ -31,8 +31,7 @@ alt_url: /
   </div>
   <div class="home-profile__content">
     <h1>王文彬</h1>
-    {% if site.description %}<p class="home-profile__tagline">{{ site.description }}</p>{% endif %}
-    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组（VIPL）</a>（<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>），导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他曾获2024<a href='https://www.csig.org.cn/23/202411/52239.html'>年中国图象图形学学会博士学位论文激励计划提名</a>，入选湖北省楚天学者人才计划。他受邀担任 IEEE TPAMI / IEEE TMM / PR / ESWA 等期刊审稿人和 CVPR / ICCV / ECCV / NeurIPS 等会议审稿人，是CAAI（智能服务专业委员会）、CCF、CSIG 会员。</p>
+    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组（VIPL）</a>（<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>），导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他曾获2024年<a href='https://www.csig.org.cn/23/202411/52239.html'>中国图象图形学学会博士学位论文激励计划提名</a>，入选湖北省楚天学者人才计划。他受邀担任 IEEE TPAMI / IEEE TMM / PR / ESWA 等期刊审稿人和 CVPR / ICCV / ECCV / NeurIPS 等会议审稿人，是CAAI（智能服务专业委员会）、CCF、CSIG 会员。</p>
     <div class="home-profile__links">
       {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a>{% endif %}
       {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a> <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>{% endif %}

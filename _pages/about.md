@@ -34,7 +34,6 @@ redirect_from:
   </div>
   <div class="home-profile__content">
     <h1>Dr. Wenbin Wang</h1>
-    {% if site.description %}<p class="home-profile__tagline">{{ site.description }}</p>{% endif %}
     <p>Wenbin Wang obtained his Ph.D. degree in the <a href='https://vipl.ict.ac.cn/'>VIPL group</a> (<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>) of the <a href='https://iip.ict.ac.cn/'>Key Lab. of Intelligent Information Processing (IIP)</a> at <a href='https://www.ict.ac.cn/'>Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). He was awarded the <a href='https://www.csig.org.cn/23/202411/52239.html'>Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics</a>. He is the Chutian Scholar Talent Program of Hubei Province. He is an invited journal reviewer for IEEE TPAMI / IEEE TMM / PR / ESWA, and the invited conference reviewer for CVPR / ICCV / ECCV / NeurIPS. He is a member of the CAAI (Intelligent Service Professional Committee), CCF, and CSIG.  </p>
 
     <div class="home-profile__links">
