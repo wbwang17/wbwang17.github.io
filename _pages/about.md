@@ -22,7 +22,7 @@ redirect_from:
   <p class="home-welcome__title">Welcome to Our Group</p>
   <p>Our research focuses on multimodal spatial intelligence, structural and compositional understanding of scenes, and the application of these techniques to remote sensing interpretation and underwater environment understanding. These involve techniques like: </p>
   <ul class="home-welcome__interests">
-    <li>MLLM-assisted Spatial Reasoning, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal reasoning.</li>
+    <li>MLLM-assisted Spatial Reasoning, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal Reasoning.</li>
     <li>Scene Graph Generation, e.g., Remote Sensing / Under-water Scene Graph Generation. </li>
     <li>Change Detection, Semantic Segmentation, and Instance Segmentation.</li>
   </ul>
@@ -33,8 +33,8 @@ redirect_from:
     <img src="{{ site.author.avatar | relative_url }}" alt="Wenbin Wang">
   </div>
   <div class="home-profile__content">
-    <h1>Wenbin Wang</h1>
-    <p class="home-profile__tagline">{{ site.description }}</p>
+    <h1>Dr. Wenbin Wang</h1>
+    {% if site.description %}<p class="home-profile__tagline">{{ site.description }}</p>{% endif %}
     <p>Wenbin Wang obtained his Ph.D. degree in the <a href='https://vipl.ict.ac.cn/'>VIPL group</a> (<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>) of the <a href='https://iip.ict.ac.cn/'>Key Lab. of Intelligent Information Processing (IIP)</a> at <a href='https://www.ict.ac.cn/'>Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). He was awarded the <a href='https://www.csig.org.cn/23/202411/52239.html'>Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics</a>. He is the Chutian Scholar Talent Program of Hubei Province. He is an invited journal reviewer for IEEE TPAMI / IEEE TMM / PR / ESWA, and the invited conference reviewer for CVPR / ICCV / ECCV / NeurIPS. He is a member of the CAAI (Intelligent Service Professional Committee), CCF, and CSIG.  </p>
 
     <div class="home-profile__links">
