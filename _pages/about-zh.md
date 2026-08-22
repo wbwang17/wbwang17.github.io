@@ -27,10 +27,10 @@ alt_url: /
   <div class="home-profile__content">
     <h1>王文彬</h1>
     <p class="home-profile__tagline">{{ site.description }}</p>
-    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组（VIPL）</a>（<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>），导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他的研究兴趣包括但不限于空间智能、场景理解、目标检测、场景图生成和 AIGC。<a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
+    <p>王文彬博士毕业于中国科学院<a href='https://www.ict.ac.cn/'>计算技术研究所（ICT）</a><a href='https://iip.ict.ac.cn/'>智能信息处理重点实验室（IIP）</a><a href='https://vipl.ict.ac.cn/'>视觉信息处理与学习研究组（VIPL）</a>（<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>），导师为<a href='https://vipl.ict.ac.cn/people/xlchen/'>陈熙霖教授</a>和<a href='https://vipl.ict.ac.cn/people/rpwang/'>王瑞平教授</a>。此前，他于南开大学（NKU）计算机科学与技术专业获得工学学士学位（2013-2017）。他曾获2024<a href='https://www.csig.org.cn/23/202411/52239.html'>年中国图象图形学学会博士学位论文激励计划提名</a>，入选湖北省楚天学者人才计划。他受邀担任 IEEE TPAMI / IEEE TMM / PR / ESWA 等期刊审稿人和 CVPR / ICCV / ECCV / NeurIPS 等会议审稿人，是CAAI（智能服务专业委员会）、CCF、CSIG 会员。</p>
     <div class="home-profile__links">
-      {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> 邮箱</a>{% endif %}
-      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>{% endif %}
+      {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a> <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>{% endif %}
       {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>{% endif %}
       {% if site.author.dblp %}<a href="{{ site.author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a>{% endif %}
       {% if site.author.orcid %}<a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>{% endif %}
@@ -105,14 +105,6 @@ alt_url: /
 
 </section>
 
-<section class="home-section" id="honors-and-awards" markdown="1">
-
-# 🎖 荣誉奖励
-- *中国图象图形学学会博士学位论文激励计划提名奖*，2024。
-- 湖北省楚天学者人才计划。
-
-</section>
-
 <section class="home-section" id="team-members" markdown="1">
 
 # 🎓 团队成员
@@ -124,17 +116,6 @@ alt_url: /
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
 * 本科生: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
 -->
-
-</section>
-
-<section class="home-section" id="academic-services" markdown="1">
-
-# 📚 学术服务
-- 受邀担任期刊审稿人：
-IEEE TPAMI / IEEE TMM / PR / ESWA
-- 受邀担任会议审稿人：
-CVPR / ICCV / ECCV / NeurIPS
-- CAAI（智能服务专业委员会）、CCF、CSIG 会员
 
 </section>
 

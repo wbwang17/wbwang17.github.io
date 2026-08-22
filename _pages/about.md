@@ -30,10 +30,11 @@ redirect_from:
   <div class="home-profile__content">
     <h1>Wenbin Wang</h1>
     <p class="home-profile__tagline">{{ site.description }}</p>
-    <p>Wenbin Wang obtained his Ph.D. degree in the <a href='https://vipl.ict.ac.cn/'>VIPL group</a> (<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>) of the <a href='https://iip.ict.ac.cn/'>Key Lab. of Intelligent Information Processing (IIP)</a> at <a href='https://www.ict.ac.cn/'>Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). His research interests include but not limited to spatial intelligence, scene understanding, object detection, scene graph generation, and AIGC. <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a></p>
+    <p>Wenbin Wang obtained his Ph.D. degree in the <a href='https://vipl.ict.ac.cn/'>VIPL group</a> (<a href='https://vipl-vsu.github.io/'>VIPL-VSU</a>) of the <a href='https://iip.ict.ac.cn/'>Key Lab. of Intelligent Information Processing (IIP)</a> at <a href='https://www.ict.ac.cn/'>Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences (CAS), advised by <a href='https://vipl.ict.ac.cn/people/xlchen/'>Prof. Xilin Chen</a> and <a href='https://vipl.ict.ac.cn/people/rpwang/'>Prof. Ruiping Wang</a>. Before this, he received his B.Eng. degree in Computer Science and Technology from Nankai University (NKU, 2013-2017). He was awarded the <a href='https://www.csig.org.cn/23/202411/52239.html'>Nomination Award of the Doctoral Dissertation Incentive Program, China Society of Image and Graphics</a>. He is the Chutian Scholar Talent Program of Hubei Province. He is an invited journal reviewer for IEEE TPAMI / IEEE TMM / PR / ESWA, and the invited conference reviewer for CVPR / ICCV / ECCV / NeurIPS. He is a member of the CAAI (Intelligent Service Professional Committee), CCF, and CSIG.  </p>
+
     <div class="home-profile__links">
       {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a>{% endif %}
-      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a> <a href='https://scholar.google.com/citations?user=V4wFbcQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>{% endif %}
       {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>{% endif %}
       {% if site.author.dblp %}<a href="{{ site.author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a>{% endif %}
       {% if site.author.orcid %}<a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>{% endif %}
@@ -108,14 +109,6 @@ redirect_from:
 
 </section>
 
-<section class="home-section" id="honors-and-awards" markdown="1">
-
-# 🎖 Honors and Awards
-- *Nomination Award of the Doctoral Dissertation Incentive Program*, China Society of Image and Graphics (中国图象图形学学会博士学位论文激励计划提名奖), 2024.
-- Chutian Scholar Talent Program of Hubei Province.
-
-</section>
-
 <section class="home-section" id="team-members" markdown="1">
 
 # 🎓 Team Members
@@ -127,17 +120,6 @@ redirect_from:
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
 * Undergraduates: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
 -->
-
-</section>
-
-<section class="home-section" id="academic-services" markdown="1">
-
-# 📚 Academic Services
-- Invited journal reviewer for
-IEEE TPAMI / IEEE TMM / PR / ESWA
-- Invited conference reviewer for
-CVPR / ICCV / ECCV / NeurIPS
-- Member of the CAAI (Intelligent Service Professional Committee), CCF, CSIG
 
 </section>
 

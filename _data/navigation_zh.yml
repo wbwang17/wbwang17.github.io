@@ -3,14 +3,8 @@ main:
   - title: "论文发表"
     url: "/zh/#publications"
 
-  - title: "荣誉奖励"
-    url: "/zh/#honors-and-awards"
-
   - title: "团队成员"
     url: "/zh/#team-members"
-
-  - title: "学术服务"
-    url: "/zh/#academic-services"
 
   - title: "科研项目"
     url: "/zh/#fundings"

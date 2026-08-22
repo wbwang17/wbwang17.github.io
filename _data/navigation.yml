@@ -3,14 +3,8 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-
   - title: "Team Members"
     url: "/#team-members"
-
-  - title: "Academic Services"
-    url: "/#academic-services"
 
   - title: "Fundings"
     url: "/#fundings"
