@@ -297,16 +297,22 @@
         .highlight {
             margin: 0;
             background: transparent;
-            color: $text-color;
-            font-size: .86em;
+            color: $text-color !important;
+            font-size: .95em;
             line-height: 1.7;
+        }
+
+        .highlight *,
+        pre *,
+        code * {
+            color: $text-color !important;
         }
 
         pre,
         code {
             background: transparent;
-            color: $text-color;
-            font-size: 1em;
+            color: $text-color !important;
+            font-size: inherit;
             line-height: inherit;
             white-space: pre;
         }
