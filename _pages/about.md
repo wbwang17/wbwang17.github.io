@@ -52,8 +52,7 @@ redirect_from:
 - *2026.05*: &nbsp; A paper is accepted by IEEE TGRS. 
 - *2025.12*: &nbsp; One paper is accepted by IEEE TCSVT.
 - *2024.12*: &nbsp; One paper is accepted by The Visual Computer (CCF-C).
-- *2024.11*: &nbsp; Dr. Wenbin Wang is awarded the [Nomination Award in the Doctoral Dissertation Incentive Program by the China Society of Image and Graphics (CSIG)](https://www.csig.org.cn/23/202411/52239.html).
-- *2023.05*: &nbsp; One paper on hierarchical SGG (SGoI) is accepted by International Journal of Computer Vision (IJCV) 2023.
+- *2023.05*: &nbsp; One paper on hierarchical SGG (SGoI) is accepted by IJCV.
 - *2022.07*: &nbsp; One paper is accepted by SCIENTIA SINICA Informationis.
 - *2021.07*: &nbsp; One paper on SGG and image captioning is accepted by ICCV 2021.
 - *2020.07*: &nbsp; One paper on hierarchical scene graph generation is accepted by ECCV 2020.

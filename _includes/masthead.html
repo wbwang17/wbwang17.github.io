@@ -19,7 +19,7 @@
           {% endif %}
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ home_url }}">{{ home_label }}</a></li>
           {% for link in nav_links %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"{% if link.target %} target="{{ link.target }}" rel="noopener"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
           <li class="masthead__menu-item"><a href="{{ switch_url }}">{{ switch_label }}</a></li>
         </ul>

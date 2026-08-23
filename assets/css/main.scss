@@ -171,6 +171,58 @@
     }
 }
 
+.wiki-hero {
+    padding-top: 2em;
+    padding-bottom: 1em;
+
+    p {
+        max-width: 920px;
+        line-height: 1.65;
+    }
+}
+
+.wiki-kicker {
+    margin-top: 0;
+    margin-bottom: .35em;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.wiki-subnav {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5em .75em;
+    padding: .75em 0;
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+    background: $background-color;
+}
+
+.wiki-subnav a {
+    color: $link-color;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.wiki-subnav a:hover {
+    text-decoration: underline;
+}
+
+.wiki-section {
+    scroll-margin-top: 5em;
+}
+
+.wiki-entry-list {
+    margin-top: .75em;
+}
+
+.wiki-empty {
+    color: $gray;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

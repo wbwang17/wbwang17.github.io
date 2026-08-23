@@ -1,0 +1,108 @@
+---
+layout: home-wide
+permalink: /zh/wiki/
+title: "组内 Wiki"
+excerpt: ""
+author_profile: false
+lang: zh
+alt_url: /wiki/
+---
+
+<section class="home-section wiki-hero" id="wiki-top" markdown="1">
+  <p class="wiki-kicker">组内 Wiki</p>
+  <p>这里用于整理面向组内学生、潜在学生和合作者的公共资源，包括项目实例、入门资源、论文写作、科研经验、推荐工具和项目备忘。</p>
+</section>
+
+<nav class="wiki-subnav" aria-label="组内 Wiki 分类">
+  <a href="#project-examples" target="_self">项目实例</a>
+  <a href="#onboarding" target="_self">入门资源</a>
+  <a href="#writing-guidelines" target="_self">论文写作</a>
+  <a href="#research-tips" target="_self">科研经验</a>
+  <a href="#tools" target="_self">推荐工具</a>
+  <a href="#teaching-resources" target="_self">教学资源</a>
+  <a href="#project-notes" target="_self">项目备忘</a>
+</nav>
+
+<section class="home-section wiki-section" id="project-examples" markdown="1">
+
+# 项目实例
+
+这里会整理学生论文代码、可复现实验项目和练手任务，帮助后续学生快速熟悉组内研究流程和代码组织方式。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>
+
+<section class="home-section wiki-section" id="onboarding" markdown="1">
+
+# 入门资源
+
+这里会整理新同学入门材料，包括研究环境配置、基础阅读材料、代码规范和推荐学习路径。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>
+
+<section class="home-section wiki-section" id="writing-guidelines" markdown="1">
+
+# 论文写作
+
+这里会整理论文写作规范、修改经验、 rebuttal 准备、图表打磨和学术表达示例。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>
+
+<section class="home-section wiki-section" id="research-tips" markdown="1">
+
+# 科研经验
+
+这里会整理如何读论文、设计实验、记录研究过程、讨论 idea 和推进科研工作的经验总结。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>
+
+<section class="home-section wiki-section" id="tools" markdown="1">
+
+# 推荐工具
+
+这里会整理组内推荐的软件、代码工具、写作工具、可视化工具和效率工作流。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>
+
+<section class="home-section wiki-section" id="teaching-resources" markdown="1">
+
+# 教学资源
+
+这里会整理课程资料、授课讲义、作业说明、教学示例，以及与组内教学活动相关的可复用资源。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>
+
+<section class="home-section wiki-section" id="project-notes" markdown="1">
+
+# 项目备忘
+
+这里会整理在研或已完成项目的阶段记录、任务清单和可复用技术备忘。
+
+<div class="wiki-entry-list">
+  <p class="wiki-empty">待更新。</p>
+</div>
+
+</section>

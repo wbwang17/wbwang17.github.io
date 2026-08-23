@@ -11,3 +11,7 @@ main:
 
   - title: "教学"
     url: "/zh/#teaching"
+
+  - title: "组内 Wiki"
+    url: "/zh/wiki/"
+    target: "_blank"

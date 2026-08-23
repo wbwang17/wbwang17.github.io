@@ -11,6 +11,10 @@ main:
 
   - title: "Teaching"
     url: "/#teaching"
+
+  - title: "Lab Wiki"
+    url: "/wiki/"
+    target: "_blank"
     
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"

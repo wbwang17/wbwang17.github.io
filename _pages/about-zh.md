@@ -48,8 +48,7 @@ alt_url: /
 - *2026.05*: &nbsp; 一篇论文被 IEEE TGRS 接收。
 - *2025.12*: &nbsp; 一篇论文被 IEEE TCSVT 接收。
 - *2024.12*: &nbsp; 一篇论文被 The Visual Computer（CCF-C）接收。
-- *2024.11*: &nbsp; 王文彬博士获得[中国图象图形学学会（CSIG）博士学位论文激励计划提名奖](https://www.csig.org.cn/23/202411/52239.html)。
-- *2023.05*: &nbsp; 一篇关于层次化场景图生成（SGoI）的论文被 International Journal of Computer Vision（IJCV）2023 接收。
+- *2023.05*: &nbsp; 一篇关于层次化场景图生成（SGoI）的论文被 IJCV 接收。
 - *2022.07*: &nbsp; 一篇论文被《中国科学：信息科学》接收。
 - *2021.07*: &nbsp; 一篇关于场景图生成和图像描述的论文被 ICCV 2021 接收。
 - *2020.07*: &nbsp; 一篇关于层次化场景图生成的论文被 ECCV 2020 接收。
