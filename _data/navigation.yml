@@ -4,7 +4,7 @@ main:
     url: "/#publications"
 
   - title: "Team Members"
-    url: "/#team-members"
+    url: "/team-members/"
 
   - title: "Lab Wiki"
     url: "/wiki/"

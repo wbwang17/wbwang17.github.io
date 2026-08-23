@@ -108,20 +108,6 @@ alt_url: /
 
 </section>
 
-<section class="home-section" id="team-members" markdown="1">
-
-# 🎓 团队成员
-<!--* 硕士生:
-  - [Zhiwei Cai](https://daffodil305.github.io/) (2024-)
-  - [Yiheng Chen](https://qikert-zhushu.github.io/) (2024-)
-  - [Qiwen Gong](https://gongqiwen03.github.io/) (2024-)
-  - [Haocheng Fu](https://fuhaocheng.github.io/) (2024-)
-  - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
-* 本科生: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
--->
-
-</section>
-
 <!-- # 💬 邀请报告
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)

@@ -12,7 +12,7 @@ alt_url: /zh/join-us/
 
 # Join Us
 
-We welcome motivated students and collaborators who are interested in multimodal spatial intelligence, structural and compositional scene understanding, remote sensing interpretation, and underwater environment understanding.
+We welcome motivated students who are interested in multimodal spatial intelligence, structural and compositional scene understanding, remote sensing interpretation, and underwater environment understanding.
 
 ## General Expectations
 
@@ -23,7 +23,7 @@ We welcome motivated students and collaborators who are interested in multimodal
 
 ## Prospective Graduate Students
 
-Students interested in master's or doctoral research are encouraged to contact us by email. Please include:
+Students interested in master's research are encouraged to contact us by email. Please include:
 
 - CV or resume.
 - Transcript.
@@ -34,6 +34,11 @@ Students interested in master's or doctoral research are encouraged to contact u
 
 Undergraduate students who want to learn research through concrete projects are welcome to get in touch. Please briefly describe your background, programming experience, available time, and the research direction or project example that interests you.
 
+## Assessment Requirements
+
+Students who contact us may be evaluated through multiple forms, including but not limited to paper reading, code implementation, and interview-style research discussions.
+
+<!--
 ## Visiting Students and Collaborators
 
 Visiting students and external collaborators are welcome when there is a clear topic match. Please include your CV, current affiliation, expected visiting period, funding status, and a short plan for possible collaboration.
@@ -41,10 +46,11 @@ Visiting students and external collaborators are welcome when there is a clear t
 ## Postdocs and Research Staff
 
 Openings will depend on current projects and funding. Candidates with strong first-author publications or substantial system-building experience in related areas are encouraged to send a CV, representative papers, and a concise research plan.
+-->
 
 ## How to Contact
 
-Please email [wangwenbin@ctgu.edu.cn](mailto:wangwenbin@ctgu.edu.cn) with a clear subject such as `[Prospective Student]`, `[Undergraduate Research]`, `[Visiting Student]`, or `[Postdoc]`.
+Please email [wangwenbin@ctgu.edu.cn](mailto:wangwenbin@ctgu.edu.cn) with a clear subject such as `[Prospective Graduate Student]` or `[Undergraduate Research]`.
 
 Updated August 2026.
 

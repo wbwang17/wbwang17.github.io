@@ -4,7 +4,7 @@ main:
     url: "/zh/#publications"
 
   - title: "团队成员"
-    url: "/zh/#team-members"
+    url: "/zh/team-members/"
 
   - title: "组内 Wiki"
     url: "/zh/wiki/"

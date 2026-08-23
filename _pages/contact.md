@@ -20,9 +20,11 @@ alt_url: /zh/contact/
 
 - **Contact Us / Lab Location:**
 
+  College of Computer and Information Technology
+
   China Three Gorges University
 
-  Yichang, Hubei, China
+  8 Daxue Road, Xiling District, Yichang 443002, China
 
   Specific office and lab location will be updated later.
 
@@ -30,8 +32,10 @@ alt_url: /zh/contact/
 
   Dr. Wenbin Wang
 
+  College of Computer and Information Technology
+
   China Three Gorges University
 
-  Yichang, Hubei, China
+  8 Daxue Road, Xiling District, Yichang 443002, China
 
 </section>
