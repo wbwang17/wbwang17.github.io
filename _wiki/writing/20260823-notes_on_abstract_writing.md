@@ -16,7 +16,7 @@ authors:
     role: "Maintainer"
     affiliation: "China Three Gorges University"
 summary: "总结科研论文摘要写作中的论证链组织、句子功能、常见问题和快速自检方法。"
-status: published
+status: draft
 toc: true
 ---
 
