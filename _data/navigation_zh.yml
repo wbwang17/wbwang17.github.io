@@ -6,12 +6,12 @@ main:
   - title: "团队成员"
     url: "/zh/#team-members"
 
-  - title: "科研项目"
-    url: "/zh/#fundings"
-
-  - title: "教学"
-    url: "/zh/#teaching"
-
   - title: "组内 Wiki"
     url: "/zh/wiki/"
     target: "_blank"
+
+  - title: "联系我们"
+    url: "/zh/contact/"
+
+  - title: "加入我们"
+    url: "/zh/join-us/"

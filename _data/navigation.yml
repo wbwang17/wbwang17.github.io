@@ -6,15 +6,15 @@ main:
   - title: "Team Members"
     url: "/#team-members"
 
-  - title: "Fundings"
-    url: "/#fundings"
-
-  - title: "Teaching"
-    url: "/#teaching"
-
   - title: "Lab Wiki"
     url: "/wiki/"
     target: "_blank"
+
+  - title: "Contact"
+    url: "/contact/"
+
+  - title: "Join Us"
+    url: "/join-us/"
     
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"

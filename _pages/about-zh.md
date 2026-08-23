@@ -19,8 +19,8 @@ alt_url: /
   <p class="home-welcome__title">欢迎加入我们的团队</p>
   <p>我们的研究聚焦于多模态空间智能、场景的结构化与组合式理解，以及相关技术在遥感解译和水下环境理解中的应用。具体涉及的技术方向包括：</p>
   <ul class="home-welcome__interests">
-    <li>**MLLM 辅助的空间推理**，例如目标导航、视觉语言导航和多模态推理。</li>
-    <li>**场景图生成**，例如遥感场景图生成和水下场景图生成。</li>
+    <li><strong>MLLM 辅助的空间推理</strong>，例如目标导航、视觉语言导航和多模态推理。</li>
+    <li><strong>场景图生成</strong>，例如遥感场景图生成和水下场景图生成。</li>
     <li>变化检测、语义分割和实例分割。</li>
   </ul>
 </section>
@@ -119,24 +119,6 @@ alt_url: /
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
 * 本科生: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
 -->
-
-</section>
-
-<section class="home-section" id="fundings" markdown="1">
-
-# 📁 科研项目
-- 多尺度空间与多粒度语义特征融合的场景图生成研究。湖北省自然科学基金（项目编号：2024AFB283），2024.03~2026.03
-<!-- - 遥感场景语义分析中的场景图生成研究。三峡大学科学基金（项目编号：2023RCKJ0022），2023.10~2026.10 -->
-
-</section>
-
-<section class="home-section" id="teaching" markdown="1">
-
-# 📚 教学
-* 研究生课程
-  - 学术规范与论文写作，2024 年秋季
-
-* 本科生课程
 
 </section>
 

@@ -22,8 +22,8 @@ redirect_from:
   <p class="home-welcome__title">Welcome to Our Group</p>
   <p>Our research focuses on multimodal spatial intelligence, structural and compositional understanding of scenes, and the application of these techniques to remote sensing interpretation and underwater environment understanding. These involve techniques like: </p>
   <ul class="home-welcome__interests">
-    <li>**MLLM-assisted Spatial Reasoning**, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal Reasoning.</li>
-    <li>**Scene Graph Generation**, e.g., Remote Sensing / Under-water Scene Graph Generation. </li>
+    <li><strong>MLLM-assisted Spatial Reasoning</strong>, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal Reasoning.</li>
+    <li><strong>Scene Graph Generation</strong>, e.g., Remote Sensing / Under-water Scene Graph Generation. </li>
     <li>Change Detection, Semantic Segmentation, and Instance Segmentation.</li>
   </ul>
 </section>
@@ -123,24 +123,6 @@ redirect_from:
   - [Shunfa He](https://confusq.github.io/confusq/) (2024-)
 * Undergraduates: [Shiwen Tu](https://nanmengyu.github.io/), Xiaojun Xiang
 -->
-
-</section>
-
-<section class="home-section" id="fundings" markdown="1">
-
-# 📁 Fundings
-- Research on scene graph generation with multi-scale spatial and multi-granularity semantic features. Natural Science Foundation of HuBei Province (Grant No. 2024AFB283), 2024.03~2026.03
-<!-- - Research on semantic analysis of remote sensing scenes based on scene graph. Science Foundation of China Three Gorges University (Grant No. 2023RCKJ0022), 2023.10~2026.10 -->
-
-</section>
-
-<section class="home-section" id="teaching" markdown="1">
-
-# 📚 Teaching
-* Graduate courses
-  - Academic norms and writings, Fall, 2024
-
-* Undergraduate courses
 
 </section>
 
