@@ -22,8 +22,8 @@ redirect_from:
   <p class="home-welcome__title">Welcome to Our Group</p>
   <p>Our research focuses on multimodal spatial intelligence, structural and compositional understanding of scenes, and the application of these techniques to remote sensing interpretation and underwater environment understanding. These involve techniques like: </p>
   <ul class="home-welcome__interests">
-    <li>MLLM-assisted Spatial Reasoning, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal Reasoning.</li>
-    <li>Scene Graph Generation, e.g., Remote Sensing / Under-water Scene Graph Generation. </li>
+    <li>**MLLM-assisted Spatial Reasoning**, e.g., Object-goal Navigation, Visual-language Navigation, Multimodal Reasoning.</li>
+    <li>**Scene Graph Generation**, e.g., Remote Sensing / Under-water Scene Graph Generation. </li>
     <li>Change Detection, Semantic Segmentation, and Instance Segmentation.</li>
   </ul>
 </section>
