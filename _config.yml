@@ -126,6 +126,19 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _wiki
+  - scope:
+      path: ""
+      type: wiki
+    values:
+      layout: wiki-post
+      author_profile: false
+
+
+# Collections
+collections:
+  wiki:
+    output: true
 
 
 # Sass/SCSS

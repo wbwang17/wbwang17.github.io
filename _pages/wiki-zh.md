@@ -45,7 +45,34 @@ alt_url: /wiki/
 这里会整理论文写作规范、修改经验、 rebuttal 准备、图表打磨和学术表达示例。
 
 <div class="wiki-entry-list">
-  <p class="wiki-empty">待更新。</p>
+  {% assign writing_notes = site.wiki | where: "lang", "zh" | where: "category", "writing" | where: "status", "published" | sort: "date" | reverse %}
+  {% if writing_notes.size > 0 %}
+    {% for note in writing_notes %}
+      <article class="wiki-entry-card">
+        <a class="wiki-entry-card__title" href="{{ note.url | relative_url }}" target="_self">{{ note.title }}</a>
+        {% if note.summary %}
+          <p>{{ note.summary }}</p>
+        {% endif %}
+        <div class="wiki-entry-card__meta">
+          {% if note.authors %}
+            <span>
+              {% for author in note.authors %}
+                {{ author.name }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </span>
+          {% endif %}
+          {% if note.date %}
+            <span>{{ note.date | date: "%Y-%m-%d" }}</span>
+          {% endif %}
+          {% if note.tags %}
+            <span>{{ note.tags | join: " / " }}</span>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p class="wiki-empty">待更新。</p>
+  {% endif %}
 </div>
 
 </section>

@@ -1,0 +1,32 @@
+---
+layout: home-wide
+---
+
+<article class="wiki-post">
+  <header class="wiki-post__header">
+    <p class="wiki-post__kicker">Lab Wiki</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}
+      <p class="wiki-post__summary">{{ page.summary }}</p>
+    {% endif %}
+    <div class="wiki-post__meta">
+      {% if page.authors %}
+        <span>
+          {% for author in page.authors %}
+            {{ author.name }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </span>
+      {% endif %}
+      {% if page.date %}
+        <span>{{ page.date | date: "%Y-%m-%d" }}</span>
+      {% endif %}
+      {% if page.category %}
+        <span>{{ page.category }}</span>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="wiki-post__body">
+    {{ content }}
+  </div>
+</article>
