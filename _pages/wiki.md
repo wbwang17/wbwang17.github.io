@@ -5,6 +5,7 @@ title: "Lab Wiki"
 excerpt: ""
 author_profile: false
 lang: en
+nav: wiki
 alt_url: /zh/wiki/
 ---
 
@@ -12,16 +13,6 @@ alt_url: /zh/wiki/
   <p class="wiki-kicker">Lab Wiki</p>
   <p>This page collects group resources, project examples, writing guidelines, research tips, tool recommendations, and project notes for students and collaborators.</p>
 </section>
-
-<nav class="wiki-subnav" aria-label="Lab Wiki sections">
-  <a href="#project-examples" target="_self">Project Examples</a>
-  <a href="#onboarding" target="_self">Onboarding</a>
-  <a href="#writing-guidelines" target="_self">Writing Guidelines</a>
-  <a href="#research-tips" target="_self">Research Tips</a>
-  <a href="#tools" target="_self">Tools</a>
-  <a href="#teaching-resources" target="_self">Teaching Resources</a>
-  <a href="#project-notes" target="_self">Project Notes</a>
-</nav>
 
 <section class="home-section wiki-section" id="project-examples" markdown="1">
 

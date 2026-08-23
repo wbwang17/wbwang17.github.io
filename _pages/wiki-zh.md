@@ -5,6 +5,7 @@ title: "组内 Wiki"
 excerpt: ""
 author_profile: false
 lang: zh
+nav: wiki
 alt_url: /wiki/
 ---
 
@@ -12,16 +13,6 @@ alt_url: /wiki/
   <p class="wiki-kicker">组内 Wiki</p>
   <p>这里用于整理面向组内学生、潜在学生和合作者的公共资源，包括项目实例、入门资源、论文写作、科研经验、推荐工具和项目备忘。</p>
 </section>
-
-<nav class="wiki-subnav" aria-label="组内 Wiki 分类">
-  <a href="#project-examples" target="_self">项目实例</a>
-  <a href="#onboarding" target="_self">入门资源</a>
-  <a href="#writing-guidelines" target="_self">论文写作</a>
-  <a href="#research-tips" target="_self">科研经验</a>
-  <a href="#tools" target="_self">推荐工具</a>
-  <a href="#teaching-resources" target="_self">教学资源</a>
-  <a href="#project-notes" target="_self">项目备忘</a>
-</nav>
 
 <section class="home-section wiki-section" id="project-examples" markdown="1">
 

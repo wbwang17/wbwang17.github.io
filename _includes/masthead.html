@@ -5,23 +5,32 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           {% if page.lang == "zh" %}
-            {% assign nav_links = site.data.navigation_zh.main %}
+            {% if page.nav == "wiki" %}
+              {% assign nav_links = site.data.navigation_wiki_zh.main %}
+            {% else %}
+              {% assign nav_links = site.data.navigation_zh.main %}
+            {% endif %}
             {% assign home_label = "首页" %}
             {% assign home_url = "/zh/" %}
             {% assign switch_label = "English" %}
             {% assign switch_url = page.alt_url | default: "/" %}
           {% else %}
-            {% assign nav_links = site.data.navigation.main %}
+            {% if page.nav == "wiki" %}
+              {% assign nav_links = site.data.navigation_wiki.main %}
+            {% else %}
+              {% assign nav_links = site.data.navigation.main %}
+            {% endif %}
             {% assign home_label = "Homepage" %}
             {% assign home_url = "/" %}
             {% assign switch_label = "中文" %}
             {% assign switch_url = page.alt_url | default: "/zh/" %}
           {% endif %}
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ home_url }}">{{ home_label }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ home_url }}" target="_self">{{ home_label }}</a></li>
           {% for link in nav_links %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"{% if link.target %} target="{{ link.target }}" rel="noopener"{% endif %}>{{ link.title }}</a></li>
+            {% assign link_target = link.target | default: "_self" %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="{{ link_target }}"{% if link_target == "_blank" %} rel="noopener"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item"><a href="{{ switch_url }}">{{ switch_label }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ switch_url }}" target="_self">{{ switch_label }}</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
