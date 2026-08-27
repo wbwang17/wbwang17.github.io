@@ -1,6 +1,6 @@
 ---
 layout: wiki-post
-title: "（1）摘要写作笔记：从“介绍方法”到“建立论文逻辑”"
+title: "摘要写作：从“介绍方法”到“建立论文逻辑”"
 date: 2026-08-23
 lang: zh
 nav: wiki
@@ -20,7 +20,7 @@ status: published
 toc: true
 ---
 
-# （1）摘要写作笔记：从“介绍方法”到“建立论文逻辑”
+# 摘要写作：从“介绍方法”到“建立论文逻辑”
 
 ## 1. 摘要真正要完成什么
 
@@ -38,7 +38,7 @@ toc: true
 
 ## 2. 推荐的 8 句主干
 
-对于 TPAMI、TIP、TGRS、IJCV 等偏方法型论文，一个比较稳定的摘要结构可以压缩成 8 句主干。
+对于 TPAMI、TIP、TGRS、IJCV 等偏方法型论文，一个比较稳定的摘要结构可以压缩成 8 句主干，前后要呼应，新旧point要形成鲜明对立。
 
 | 句子 | 功能 | 要回答的问题 |
 |---|---|---|
@@ -65,7 +65,7 @@ toc: true
 Achieving [Goal A] while preserving [Goal B] remains a central pursuit in [research setting].
 ```
 
-第一句中的目标最好能和最后的实验指标形成闭环。例如 `task success` 对应 SR / accuracy，`path efficiency` 对应 SPL / path length。
+第一句中的目标最好能和最后的实验指标形成闭环。例如 `task success` 对应 Success rate / Accuracy，`path efficiency` 对应 path length等。
 
 ### S2：概括现有方法的共同设计偏向
 
@@ -83,7 +83,7 @@ Existing [methods] typically [shared design behavior], yet such designs inherent
 Existing methods fail to consider X.
 ```
 
-前者指出的是一种设计偏向及其自然后果，后者容易显得武断，也容易变成“别人没做，我来做”的补丁式创新。
+前者指出的是一种设计偏向及其自然后果，后者容易显得武断，也容易变成“别人没做，我来做”的补丁式创新，而且“别人没做”，不能够证明“我来做”的合理性。
 
 ### S3：给出具体失败后果
 
@@ -113,6 +113,8 @@ We propose XXX.
 This work rethinks [problem] from a [new standpoint] and introduces [Framework], which couples [Process A] with [Process B] to coordinate [Behavior A] with [Behavior B].
 ```
 
+[new standpoint] 最好和上面的[shared design behavior]形成强烈、鲜明对比，引起冲突。
+
 这里的 Process A / Process B 最好是比具体模块高一层的过程性概念，而不是直接列出 module names。
 
 ### S5-S6：解释两条方法主线
@@ -140,7 +142,7 @@ S5 和 S6 可以逻辑对称，但语言不要机械镜像。比如 S5 用 `stre
 S7 的作用不是继续罗列优点，而是把两条方法主线重新合起来，说明 framework 解决了什么更高层的 tension。
 
 ```text
-The framework reconciles the tension between [Requirement A] and [Requirement B] under [Constraint].
+The framework reconciles the tension between [Requirement A] and [Requirement B].
 ```
 
 这比写 “The framework is effective, robust, and efficient” 更有理论含义。
@@ -157,7 +159,7 @@ The framework reconciles the tension between [Requirement A] and [Requirement B]
 Extensive experiments on [Task A] and [Task B] show that [Framework] achieves [Overall Result], with [Gain A] and [Gain B] over [Baseline Category].
 ```
 
-如果最后已经有强数字，通常直接停在数字上最好。不要习惯性添加 `laying a solid foundation for ...` 或 `demonstrating great potential for ...` 这类空泛宣传语。
+最后可选择添加 `laying a solid foundation for ...` 或 `demonstrating great potential for ...` ，强调整体意义。
 
 ## 4. 最关键：找到“中间理论效果”
 
@@ -169,16 +171,6 @@ Extensive experiments on [Task A] and [Task B] show that [Framework] achieves [O
 2. **这些行为背后共同增强了什么能力？**
 3. **这个能力为什么能解释最终指标提升？**
 
-例如：
-
-```text
-localization + verification
-  -> 不再看到 cue 就立即 commit
-  -> tentative cue 与 sufficient support 的区分能力
-  -> evidential discrimination
-  -> better commitment
-  -> higher task success
-```
 
 一个好的中间理论概念应该满足四点：
 
@@ -203,7 +195,7 @@ Our method contains A, B, and C modules.
 A and B improve [intermediate capability], leading to [behavioral consequence].
 ```
 
-### 5.2 用重复词自解释
+### 5.2 用重复词或者具有共同的词根自解释
 
 例如：
 
@@ -227,7 +219,7 @@ robust exploration
 
 摘要里的高级感应来自**因果抽象**，而不是生僻词汇。
 
-### 5.4 两条方法句完全镜像
+### 5.4 两条方法句完全镜像，动词完全一样
 
 不推荐：
 
@@ -240,17 +232,6 @@ F strengthens Y through G and H, distinguishing I from J.
 
 > **逻辑结构对称，表面句法适度变化。**
 
-### 5.5 结果句之后再写空泛宣传语
-
-如果实验句已经给出强结果和关键数字，就不要再补：
-
-```text
-laying a solid foundation for ...
-offering a promising solution to ...
-demonstrating broad application potential ...
-```
-
-这些句子通常没有新增信息，反而削弱实验数字的收尾力度。
 
 ## 6. 一个可复用的英文摘要模板
 
@@ -267,7 +248,7 @@ This work rethinks [PROBLEM] from a [NEW STANDPOINT] and introduces [FRAMEWORK N
 [PROCESS B] promotes [INTERMEDIATE THEORETICAL CAPABILITY B] through [MECHANISM B1] and [MECHANISM B2], [DIRECT CONSEQUENCE B].
 Together, these designs reconcile the tension between [HIGH-LEVEL REQUIREMENT A] and [HIGH-LEVEL REQUIREMENT B] under [REALISTIC CONSTRAINT].
 
-Extensive experiments across [TASKS / BENCHMARKS] show that [FRAMEWORK] achieves [OVERALL PERFORMANCE CLAIM], including [KEY NUMERICAL GAINS].
+Extensive experiments across [TASKS / BENCHMARKS] show that [FRAMEWORK] achieves [OVERALL PERFORMANCE CLAIM], including [KEY NUMERICAL GAINS], laying a solid foundation for [OBJECTIVE].
 ```
 
 ## 7. 快速自检清单
@@ -295,10 +276,3 @@ Extensive experiments across [TASKS / BENCHMARKS] show that [FRAMEWORK] achieves
 3. **每条高层过程真正增强的中间理论能力是什么？**
 4. **这两个中间能力共同解决了什么更高层 tension？**
 
-可以把摘要写作压缩成一句话：
-
-> **Do not summarize modules; reconstruct the causal argument of the paper.**
-
-也就是：
-
-> **摘要不是“方法压缩”，而是“论文因果链的最短完整表达”。**

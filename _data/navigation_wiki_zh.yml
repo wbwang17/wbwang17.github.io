@@ -3,17 +3,11 @@ main:
   - title: "项目实例"
     url: "/zh/wiki/#project-examples"
 
-  - title: "入门资源"
-    url: "/zh/wiki/#onboarding"
-
   - title: "论文写作"
     url: "/zh/wiki/#writing-guidelines"
 
   - title: "科研经验"
     url: "/zh/wiki/#research-tips"
-
-  - title: "推荐工具"
-    url: "/zh/wiki/#tools"
 
   - title: "教学资源"
     url: "/zh/wiki/#teaching-resources"

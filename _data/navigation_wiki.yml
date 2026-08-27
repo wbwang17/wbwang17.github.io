@@ -3,17 +3,11 @@ main:
   - title: "Project Examples"
     url: "/wiki/#project-examples"
 
-  - title: "Onboarding"
-    url: "/wiki/#onboarding"
-
   - title: "Writing Guidelines"
     url: "/wiki/#writing-guidelines"
 
   - title: "Research Tips"
     url: "/wiki/#research-tips"
-
-  - title: "Tools"
-    url: "/wiki/#tools"
 
   - title: "Teaching Resources"
     url: "/wiki/#teaching-resources"

@@ -11,7 +11,7 @@ alt_url: /zh/wiki/
 
 <section class="home-section wiki-hero" id="wiki-top" markdown="1">
   <p class="wiki-kicker">Lab Wiki</p>
-  <p>This page collects group resources, project examples, writing guidelines, research tips, tool recommendations, and project notes for students and collaborators.</p>
+  <p>This page collects project examples, writing guidelines, research tips (including starter resources and tool recommendations), teaching resources, and project notes for students and collaborators.</p>
 </section>
 
 <section class="home-section wiki-section" id="project-examples" markdown="1">
@@ -19,18 +19,6 @@ alt_url: /zh/wiki/
 # Project Examples
 
 Paper-code examples, reproducible student projects, and practice tasks will be collected here to help new students quickly learn the group's research workflow.
-
-<div class="wiki-entry-list">
-  <p class="wiki-empty">TBD.</p>
-</div>
-
-</section>
-
-<section class="home-section wiki-section" id="onboarding" markdown="1">
-
-# Onboarding
-
-Starter resources for new students, including research setup, basic readings, coding conventions, and recommended learning paths.
 
 <div class="wiki-entry-list">
   <p class="wiki-empty">TBD.</p>
@@ -54,22 +42,19 @@ Guidelines and examples for paper writing, revision, rebuttal preparation, figur
 
 # Research Tips
 
-Experience notes on how to read papers, design experiments, organize research logs, discuss ideas, and make steady research progress.
+Starter readings, learning paths, research setup, coding conventions, recommended software and tools, and experience notes on reading papers, designing experiments, organizing research logs, and discussing ideas.
 
 <div class="wiki-entry-list">
-  <p class="wiki-empty">TBD.</p>
-</div>
-
-</section>
-
-<section class="home-section wiki-section" id="tools" markdown="1">
-
-# Tools
-
-Recommended software, coding tools, writing tools, visualization tools, and productivity workflows used in the group.
-
-<div class="wiki-entry-list">
-  <p class="wiki-empty">TBD.</p>
+  {% assign research_notes = site.wiki | where: "lang", "en" | where: "category", "research-tips" | where: "status", "published" | sort: "date" | reverse %}
+  {% if research_notes.size > 0 %}
+    {% for note in research_notes %}
+      <article class="wiki-entry-card">
+        <a class="wiki-entry-card__title" href="{{ note.url | relative_url }}" target="_self">{{ note.title }}</a>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p class="wiki-empty">TBD.</p>
+  {% endif %}
 </div>
 
 </section>

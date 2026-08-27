@@ -1,14 +1,14 @@
 ---
 layout: wiki-post
-title: "（1）视觉与人工智能方向常见顶会顶刊及入门资源"
+title: "科研入门：视觉与人工智能方向常见顶会顶刊"
 date: 2026-08-27
 lang: zh
 nav: wiki
 alt_url: /wiki/
-category: onboarding
-permalink: /zh/wiki/onboarding/01-ai-vision-venues-and-learning-resources/
+category: research-tips
+permalink: /zh/wiki/research-tips/01-ai-vision-venues-and-learning-resources/
 tags:
-  - 入门资源
+  - 科研经验
   - 计算机视觉
   - 人工智能
   - 学术会议
@@ -120,4 +120,3 @@ toc: true
 3. 从 CVPR / ICCV / ECCV 或 TGRS / JSTARS 中选一个具体任务，整理 20 篇论文的阅读表。
 4. 复现 1 篇有开源代码的代表性论文，记录环境、数据、指标、失败点和自己修改过的地方。
 5. 形成调研PPT：这个任务当前最主要的困难是什么，已有方法共同偏向是什么，我们可能从哪里切入。
-
