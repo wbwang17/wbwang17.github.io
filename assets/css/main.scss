@@ -220,10 +220,10 @@
     width: 3.5em;
     height: 1.75em;
     margin-left: .5em;
-    border-radius: 2px;
-    background-color: #b42318;
-    color: #fff;
-    font-size: 12px;
+    background-color: transparent;
+    color: #d71920;
+    font-size: 13px;
+    font-style: italic;
     font-weight: bold;
     letter-spacing: 0;
     line-height: 1.75;
@@ -231,7 +231,7 @@
     vertical-align: middle;
     white-space: nowrap;
     transform-origin: left center;
-    animation: wiki-new-wave 2.8s ease-in-out infinite;
+    animation: wiki-new-wave 1.8s ease-in-out infinite;
 }
 
 .wiki-new-badge[hidden] {
@@ -239,8 +239,10 @@
 }
 
 @keyframes wiki-new-wave {
-    0%, 100% { transform: rotate(-3deg); }
-    50% { transform: translateY(-1px) rotate(3deg); }
+    0%, 100% { transform: translateY(0) rotate(-5deg); }
+    25% { transform: translateY(-2px) rotate(3deg); }
+    50% { transform: translateY(-1px) rotate(6deg); }
+    75% { transform: translateY(1px) rotate(-2deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
