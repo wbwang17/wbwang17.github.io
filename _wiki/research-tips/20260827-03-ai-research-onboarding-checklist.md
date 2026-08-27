@@ -95,13 +95,15 @@ PyTorch 是当前视觉、大模型和遥感智能实验中最常用的深度学
 3. 分类、检测、分割三类任务的输入输出差异。
 4. 检测中的 bounding box、IoU、NMS、anchor、FPN、mAP。
 5. YOLO 系列的基本思想：单阶段检测、网格/特征图预测、速度与精度权衡。
-6. 能使用现成框架训练、验证、推理和导出模型。
+6. Faster R-CNN 的基本思想：两阶段检测、RPN、proposal、ROI Pooling / ROI Align、分类与框回归。
+7. 单阶段检测和两阶段检测的差异：速度、精度、候选框生成方式、训练目标和适用场景。
+8. 能使用现成框架训练、验证、推理和导出模型。
 
-推荐资料：[Ultralytics YOLO Docs](https://docs.ultralytics.com/)，[YOLO Object Detection](https://docs.ultralytics.com/tasks/detect/)。
+推荐资料：[Ultralytics YOLO Docs](https://docs.ultralytics.com/)，[YOLO Object Detection](https://docs.ultralytics.com/tasks/detect/)，[TorchVision Object Detection Finetuning Tutorial](https://docs.pytorch.org/tutorials/intermediate/torchvision_tutorial.html)。
 
-最低任务：用 YOLO 在一个小数据集上完成检测实验，能够解释数据格式、训练命令、验证指标、预测结果和失败案例。
+最低任务：用 YOLO 在一个小数据集上完成检测实验，再至少读懂一个 Faster R-CNN 的训练或微调示例。需要能够解释数据格式、训练命令、验证指标、预测结果、失败案例，以及单阶段检测和两阶段检测在流程上的差异。
 
-这里的重点不是“把 YOLO 命令跑通”本身，而是通过一个成熟框架快速理解目标检测的完整流程：数据标注、格式转换、训练、验证、推理、可视化和错误分析。
+这里的重点不是“把 YOLO 命令跑通”本身，而是通过成熟框架快速理解目标检测的完整流程：数据标注、格式转换、候选框生成、训练、验证、推理、可视化和错误分析。YOLO 能帮助大家快速建立检测任务的工程直觉，Faster R-CNN 能帮助大家理解经典两阶段检测框架，对后续阅读检测、实例分割和遥感目标检测论文都很重要。
 
 ## 5. Transformer 基础
 
@@ -166,7 +168,7 @@ Transformer 是理解大模型、多模态模型、视觉 Transformer、遥感�
 | 第 1 周 | Linux、SSH、tmux、文件和进程管理 | 能在服务器上独立运行长任务 |
 | 第 2 周 | Python、Conda、环境复现 | 能创建并导出项目环境 |
 | 第 3 周 | PyTorch tensor、Dataset、训练循环 | 完成一个分类训练脚本 |
-| 第 4 周 | CNN、检测基础、YOLO 框架 | 完成一个小型检测实验 |
+| 第 4 周 | CNN、检测基础、YOLO 与 Faster R-CNN | 完成一个小型检测实验，并能解释单阶段和两阶段检测差异 |
 | 第 5 周 | Transformer、attention、ViT / LLM 基础 | 手写 self-attention 并解释 Transformer block |
 | 第 6 周 | 大模型 API 调用 | 完成一个带日志的大模型调用脚本 |
 | 第 7 周 | RAG 基础 | 完成一个本地文档问答 demo |
