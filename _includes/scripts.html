@@ -1,4 +1,7 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% if page.nav == "wiki" %}
+<script src="{{ '/assets/js/wiki-new-badges.js' | relative_url }}" defer></script>
+{% endif %}
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

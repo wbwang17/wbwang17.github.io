@@ -1,0 +1,6 @@
+<article class="wiki-entry-card">
+  <a class="wiki-entry-card__title" href="{{ include.note.url | relative_url }}" target="_self">{{ include.note.title }}</a>
+  {% if include.note.published_at %}
+    <span class="wiki-new-badge" data-published-at="{{ include.note.published_at | escape }}" role="img" aria-label="{% if page.lang == 'zh' %}新发布的帖子{% else %}New post{% endif %}" title="{% if page.lang == 'zh' %}首次发布后 72 小时内的新帖{% else %}Published within the last 72 hours{% endif %}" hidden>NEW</span>
+  {% endif %}
+</article>

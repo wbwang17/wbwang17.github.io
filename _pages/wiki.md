@@ -33,7 +33,14 @@ Paper-code examples, reproducible student projects, and practice tasks will be c
 Guidelines and examples for paper writing, revision, rebuttal preparation, figure/table polishing, and academic presentation.
 
 <div class="wiki-entry-list">
-  <p class="wiki-empty">TBD.</p>
+  {% assign writing_notes = site.wiki | where: "lang", "en" | where: "category", "writing" | where: "status", "published" | sort: "date" | reverse %}
+  {% if writing_notes.size > 0 %}
+    {% for note in writing_notes %}
+      {% include wiki-entry.html note=note %}
+    {% endfor %}
+  {% else %}
+    <p class="wiki-empty">TBD.</p>
+  {% endif %}
 </div>
 
 </section>
@@ -48,9 +55,7 @@ Starter readings, learning paths, research setup, coding conventions, recommende
   {% assign research_notes = site.wiki | where: "lang", "en" | where: "category", "research-tips" | where: "status", "published" | sort: "date" | reverse %}
   {% if research_notes.size > 0 %}
     {% for note in research_notes %}
-      <article class="wiki-entry-card">
-        <a class="wiki-entry-card__title" href="{{ note.url | relative_url }}" target="_self">{{ note.title }}</a>
-      </article>
+      {% include wiki-entry.html note=note %}
     {% endfor %}
   {% else %}
     <p class="wiki-empty">TBD.</p>

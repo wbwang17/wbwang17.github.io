@@ -2,6 +2,7 @@
 layout: wiki-post
 title: "摘要写作：从“介绍方法”到“建立论文逻辑”"
 date: 2026-08-23
+published_at: "2026-08-23T00:00:00+08:00"
 lang: zh
 nav: wiki
 alt_url: /wiki/
@@ -275,4 +276,3 @@ Extensive experiments across [TASKS / BENCHMARKS] show that [FRAMEWORK] achieves
 2. **本文提出的两条高层过程分别叫什么？**
 3. **每条高层过程真正增强的中间理论能力是什么？**
 4. **这两个中间能力共同解决了什么更高层 tension？**
-
