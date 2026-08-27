@@ -29,7 +29,16 @@ alt_url: /wiki/
 # 入门资源
 
 <div class="wiki-entry-list">
-  <p class="wiki-empty">待更新。</p>
+  {% assign onboarding_notes = site.wiki | where: "lang", "zh" | where: "category", "onboarding" | where: "status", "published" | sort: "date" | reverse %}
+  {% if onboarding_notes.size > 0 %}
+    {% for note in onboarding_notes %}
+      <article class="wiki-entry-card">
+        <a class="wiki-entry-card__title" href="{{ note.url | relative_url }}" target="_self">{{ note.title }}</a>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p class="wiki-empty">待更新。</p>
+  {% endif %}
 </div>
 
 </section>
