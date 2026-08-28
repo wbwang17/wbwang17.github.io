@@ -159,7 +159,21 @@ Transformer 是理解大模型、多模态模型、视觉 Transformer、遥感�
 3. 阅读 TRL 中 SFTTrainer 和 GRPOTrainer 的文档，知道输入数据、训练对象和输出模型分别是什么。
 4. 写清楚 SFT、RAG、GRPO 的差别：SFT 改模型参数，RAG 改推理时上下文，GRPO 属于强化学习式后训练。
 
-## 8. 建议的 8 周入门路线
+## 8. 推荐课程与学习资料
+
+下面几门公开课程适合作为视觉、深度学习、NLP 和大模型方向的基础入口。建议先把课程作业和代码跑通，再开始追最新论文，否则容易只会复述论文名词，不能真正判断方法是否可靠。
+
+| 课程 | 适合对象 | 重点内容 | 链接 |
+|---|---|---|---|
+| Stanford CS231n: Deep Learning for Computer Vision | 视觉方向入门必修 | 图像分类、CNN、检测、分割、生成模型、视觉表征学习；作业很适合作为深度学习代码训练 | [CS231n 2025](https://cs231n.stanford.edu/2025/), [Assignments](https://cs231n.stanford.edu/2025/assignments.html), [YouTube playlist](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) |
+| Stanford CS224N: Natural Language Processing with Deep Learning | 想理解 Transformer、LLM 和多模态大模型的同学 | 词向量、RNN、attention、Transformer、语言模型、LLM 评测；对理解 VLM/MLLM 很有帮助 | [CS224N](https://web.stanford.edu/class/cs224n/) |
+| Stanford CS229: Machine Learning | 需要补机器学习基础的同学 | 监督学习、泛化、概率模型、优化、核方法、聚类等 | [CS229](https://cs229.stanford.edu/) |
+| MIT 6.S191: Introduction to Deep Learning | 想快速建立深度学习全貌的同学 | 深度学习基础、序列模型、生成模型、强化学习等 | [MIT 6.S191](https://introtodeeplearning.com/) |
+| Hugging Face NLP / Transformers Course | 已经会 Python 和 PyTorch，希望上手 Transformer 工具链的同学 | tokenizer、transformers、datasets、微调、评测和模型发布 | [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1) |
+
+课程学习不要停在“看完视频”。CS231n 至少要完成前两个 assignment，CS224N 至少要学完 attention / Transformer 相关内容，并能解释 self-attention、position encoding、pretraining 和 fine-tuning 的基本逻辑。
+
+## 9. 建议的 8 周入门路线
 
 如果每周能稳定投入时间，可以按下面节奏推进：
 
@@ -167,14 +181,24 @@ Transformer 是理解大模型、多模态模型、视觉 Transformer、遥感�
 |---|---|---|
 | 第 1 周 | Linux、SSH、tmux、文件和进程管理 | 能在服务器上独立运行长任务 |
 | 第 2 周 | Python、Conda、环境复现 | 能创建并导出项目环境 |
-| 第 3 周 | PyTorch tensor、Dataset、训练循环 | 完成一个分类训练脚本 |
-| 第 4 周 | CNN、检测基础、YOLO 与 Faster R-CNN | 完成一个小型检测实验，并能解释单阶段和两阶段检测差异 |
-| 第 5 周 | Transformer、attention、ViT / LLM 基础 | 手写 self-attention 并解释 Transformer block |
+| 第 3 周 | PyTorch tensor、Dataset、训练循环；CS231n assignment | 完成一个分类训练脚本 |
+| 第 4 周 | CNN、检测基础、YOLO 与 Faster R-CNN；CS231n assignment | 完成一个小型检测实验，并能解释单阶段和两阶段检测差异 |
+| 第 5 周 | Transformer、attention、ViT / LLM 基础；CS224N Transformer 内容 | 手写 self-attention 并解释 Transformer block |
 | 第 6 周 | 大模型 API 调用 | 完成一个带日志的大模型调用脚本 |
 | 第 7 周 | RAG 基础 | 完成一个本地文档问答 demo |
-| 第 8 周 | SFT / 后训练 / GRPO 概念 | 整理一页方法对比笔记 |
+| 第 8 周 | SFT / 后训练 / GRPO 概念；研究方向论文初筛 | 整理一页方法对比笔记，并形成 20 篇论文阅读表初稿 |
 
-## 9. 入门验收标准
+如果已有较好的编程基础，可以把这条路线压缩到 4-6 周；如果 Linux、Python 和 PyTorch 都不熟，不建议压缩。
+
+## 10. 入门最低闭环与验收标准
+
+刚进组的同学，至少要完成下面的闭环：
+
+1. 完成 CS231n 至少前两个 assignment，能够自己训练、调试和解释一个小型视觉模型。
+2. 学完 CS224N 中 attention / Transformer 相关章节，能够解释 self-attention、position encoding、pretraining 和 fine-tuning 的基本逻辑。
+3. 根据商量确定的研究方向，从 TPAMI / CVPR / ICCV / ECCV / TGRS / JSTARS 等 venue 整理 20 篇论文的阅读表。
+4. 复现 1 篇有开源代码的代表性论文，根据代码指引配置好环境并跑起实验，记录指标结果、环境问题、代码改动和可视化结果中暴露的问题。
+5. 形成调研 PPT，讲清楚这个任务当前最主要的困难是什么，已有方法的共同偏向是什么，我们可能从哪里切入。
 
 完成入门后，至少应该能独立回答下面的问题：
 

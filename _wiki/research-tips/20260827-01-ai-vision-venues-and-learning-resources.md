@@ -19,14 +19,14 @@ authors:
   - name: "Wenbin Wang"
     role: "Maintainer"
     affiliation: "China Three Gorges University"
-summary: "整理视觉、人工智能和遥感方向常见顶会顶刊、论文集入口、期刊主页和推荐课程，帮助新同学建立基本的论文阅读与投稿地图。"
+summary: "整理视觉、人工智能和遥感方向常见顶会顶刊、论文集入口和期刊主页，帮助新同学建立基本的论文阅读与投稿地图。"
 status: published
 toc: true
 ---
 
 # 科研入门：视觉与人工智能方向常见顶会顶刊
 
-这份笔记面向刚进入视觉、人工智能、大模型和遥感智能方向的同学，目的是帮助大家快速知道：平时应该去哪里看最新论文，哪些会议和期刊是本领域经常阅读、讨论和投稿的主要 venue，以及入门阶段可以优先学习哪些公开课程。
+这份笔记面向刚进入视觉、人工智能、大模型和遥感智能方向的同学，目的是帮助大家快速知道：平时应该去哪里看最新论文，哪些会议和期刊是本领域经常阅读、讨论和投稿的主要 venue。
 
 需要先说明两点：
 
@@ -82,7 +82,7 @@ toc: true
 | IGARSS | IEEE GRSS 旗舰会议，覆盖遥感传感器、处理、解译和地球观测应用 | [GRSS Conferences](https://www.grss-ieee.org/conferences/), [IGARSS 2026](https://www.2026.ieeeigarss.org/) |
 | ISPRS Congress / ISPRS Annals / Archives | 摄影测量、遥感、空间信息科学的重要会议和论文集体系 | [ISPRS](https://www.isprs.org/) |
 
-遥感论文投稿时要特别注意两点。第一，遥感期刊通常很重视数据来源、地理区域、传感器类型、实验可复现性和实际应用价值；不能只把自然图像方法直接换到遥感数据集上，重点可以考虑如何根据遥感数据特点来把自自然图像方法是配到遥感图像上。第二，如果论文主张“遥感基础模型”“遥感大模型”“跨区域泛化”，实验最好覆盖多数据集、多区域、多分辨率或多传感器，否则论证容易显得不足。
+遥感论文投稿时要特别注意两点。第一，遥感期刊通常很重视数据来源、地理区域、传感器类型、实验可复现性和实际应用价值；不能只把自然图像方法直接换到遥感数据集上，重点可以考虑如何根据遥感数据特点把自然图像方法适配到遥感图像上。第二，如果论文主张“遥感基础模型”“遥感大模型”“跨区域泛化”，实验最好覆盖多数据集、多区域、多分辨率或多传感器，否则论证容易显得不足。
 
 ## 4. 怎么读这些论文集
 
@@ -96,28 +96,8 @@ toc: true
 2. 再读近三年顶会论文，理解主流方法正在解决什么瓶颈。
 3. 然后读高质量期刊论文，看它们如何补足实验、消融和应用论证。
 4. 大领域论文可以多看，例如研究遥感检测问题，可以看通用检测、水下检测、大模型检测、分割等等，考虑跨领域方法迁移交叉。
-4. 最后整理成自己的任务表：任务、数据集、指标、代表方法、代码链接、主要缺陷、可能改进方向。
+5. 最后整理成自己的任务表：任务、数据集、指标、代表方法、代码链接、主要缺陷、可能改进方向。
 
 读论文时不要只记录“用了什么模块”。更重要的是记录：它解决了哪个具体失败模式/核心问题是什么，提出的核心假设/核心思路是什么，实验是否真的支持这个假设，以及这个方法是否适合迁移到我们的场景。
 
-## 5. 推荐课程
-
-下面几门公开课程适合作为视觉、深度学习、NLP 和大模型方向的基础入口。建议先把课程作业和代码跑通，再开始追最新论文，否则容易只会复述论文名词，不能真正判断方法是否可靠。
-
-| 课程 | 适合对象 | 重点内容 | 链接 |
-|---|---|---|---|
-| Stanford CS231n: Deep Learning for Computer Vision | 视觉方向入门必修 | 图像分类、CNN、检测、分割、生成模型、视觉表征学习；作业很适合作为深度学习代码训练 | [CS231n 2025](https://cs231n.stanford.edu/2025/), [Assignments](https://cs231n.stanford.edu/2025/assignments.html), [YouTube playlist](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) |
-| Stanford CS224N: Natural Language Processing with Deep Learning | 想理解 Transformer、LLM 和多模态大模型的同学 | 词向量、RNN、attention、Transformer、语言模型、LLM 评测；对理解 VLM/MLLM 很有帮助 | [CS224N](https://web.stanford.edu/class/cs224n/) |
-| Stanford CS229: Machine Learning | 需要补机器学习基础的同学 | 监督学习、泛化、概率模型、优化、核方法、聚类等 | [CS229](https://cs229.stanford.edu/) |
-| MIT 6.S191: Introduction to Deep Learning | 想快速建立深度学习全貌的同学 | 深度学习基础、序列模型、生成模型、强化学习等 | [MIT 6.S191](https://introtodeeplearning.com/) |
-| Hugging Face NLP / Transformers Course | 已经会 Python 和 PyTorch，希望上手 Transformer 工具链的同学 | tokenizer、transformers、datasets、微调、评测和模型发布 | [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1) |
-
-## 6. 对新同学的最低要求
-
-如果你刚进组，建议用 4-6 周完成下面的最低闭环：
-
-1. 完成 CS231n 至少前两个 assignment，能够自己训练、调试和解释一个小型视觉模型。
-2. 学完 CS224N 中 attention / Transformer 相关章节，能够解释 self-attention、position encoding、pretraining 和 fine-tuning 的基本逻辑。
-3. 根据商量确定的研究方向，从 TPAMI / CVPR / ICCV / ECCV / TGRS / JSTARS 整理 20 篇论文的阅读表。
-4. 复现 1 篇有开源代码的代表性论文，根据代码指引配置好环境并跑起实验，记录指标结果和发生的问题。特别是记录可视化结果存在什么问题。
-5. 形成调研PPT：这个任务当前最主要的困难是什么，已有方法共同偏向是什么，我们可能从哪里切入。
+这些 venue 和入口只是地图。真正开始做项目时，还需要把论文阅读和基础能力训练结合起来：先能跑通代码、理解模型和实验，再去判断一篇论文的贡献是否可靠。
