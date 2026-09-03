@@ -9,8 +9,8 @@ main:
   - title: "科研经验"
     url: "/zh/wiki/#research-tips"
 
+  - title: "组内事项"
+    url: "/zh/wiki/#lab-matters"
+
   - title: "教学资源"
     url: "/zh/wiki/#teaching-resources"
-
-  - title: "项目备忘"
-    url: "/zh/wiki/#project-notes"

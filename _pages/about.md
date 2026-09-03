@@ -49,7 +49,7 @@ redirect_from:
 <section class="home-section" id="news" markdown="1">
 
 # 🔥 News
-- *2026.08*: &nbsp; A paper is accepted by IEEE TGRS.
+- *2026.08*: &nbsp; A paper on remote sensing scene graph generation is accepted by IEEE TGRS.
 - *2026.08*: &nbsp; A paper is accepted by IEEE JSTARS.
 - *2026.07*: &nbsp; A paper is accepted by IEEE TGRS. 
 - *2026.05*: &nbsp; A paper is accepted by IEEE TGRS. 

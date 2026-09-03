@@ -11,7 +11,7 @@ alt_url: /zh/wiki/
 
 <section class="home-section wiki-hero" id="wiki-top" markdown="1">
   <p class="wiki-kicker">Lab Wiki</p>
-  <p>This page collects project examples, writing guidelines, research tips (including starter resources and tool recommendations), teaching resources, and project notes for students and collaborators.</p>
+  <p>This page collects project examples, writing guidelines, research tips (including starter resources and tool recommendations), lab matters, and teaching resources for students and collaborators.</p>
 </section>
 
 <section class="home-section wiki-section" id="project-examples" markdown="1">
@@ -64,11 +64,11 @@ Starter readings, learning paths, research setup, coding conventions, recommende
 
 </section>
 
-<section class="home-section wiki-section" id="teaching-resources" markdown="1">
+<section class="home-section wiki-section" id="lab-matters" markdown="1">
 
-# Teaching Resources
+# Lab Matters
 
-Course materials, lecture notes, assignment instructions, teaching examples, and reusable resources for group-related teaching activities will be collected here.
+Group announcements, meeting arrangements, shared procedures, task reminders, and other internal information will be collected here.
 
 <div class="wiki-entry-list">
   <p class="wiki-empty">TBD.</p>
@@ -76,11 +76,11 @@ Course materials, lecture notes, assignment instructions, teaching examples, and
 
 </section>
 
-<section class="home-section wiki-section" id="project-notes" markdown="1">
+<section class="home-section wiki-section" id="teaching-resources" markdown="1">
 
-# Project Notes
+# Teaching Resources
 
-Project memos, milestone notes, task checklists, and reusable technical notes for ongoing or completed group projects.
+Course materials, lecture notes, assignment instructions, teaching examples, and reusable resources for group-related teaching activities will be collected here.
 
 <div class="wiki-entry-list">
   <p class="wiki-empty">TBD.</p>
