@@ -96,7 +96,7 @@ redirect_from:
 - **CODE release**: [MMSceneGraph ![](https://img.shields.io/github/stars/Kenneth-Wong/MMSceneGraph?style=social)](https://github.com/Kenneth-Wong/MMSceneGraph): an SGG toolkit based on MMdetection, including most SOTA SGG methods.
 </div>
 </div>
-- ``TGRS 2026`` **Wenbin Wang**, Yiheng Chen, Hang Sun, Dong Ren, and Yansheng Li. [Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation](https://ieeexplore.ieee.org/document/xxxxxxx). IEEE TGRS, vol. 64, Art. No. xxxxxxx, 2026.
+- ``TGRS 2026`` **Wenbin Wang**, Yiheng Chen, Hang Sun, Dong Ren, and Yansheng Li. [Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation](https://ieeexplore.ieee.org/document/11677219). IEEE TGRS, vol. 64, Art. No. xxxxxxx, 2026. [![](https://img.shields.io/github/stars/Bamboo0216/SARNet?style=social&label=SARNet)](https://github.com/Bamboo0216/SARNet)
 - ``JSTARS 2026`` Lu Wang, Chenxu Lou, Jing Wang, Junbo Yu, Lihua Zhao, Wenbin Wang, and Dong Ren. [Scale-aware Fusion and Spatial-Frequency Collaborative Network for Remote Sensing Imagery Semantic Segmentation](https://ieeexplore.ieee.org/document/11644392). IEEE TGRS, vol. 64, Art. No. xxxxxxx, 2026.
 - ``TGRS 2026`` Hang Sun, Guanbo Feng, Bo Du, Yibing Zhan, Dong Ren, **Wenbin Wang** *, and Jun Wan. [Heterogeneous Prompting Cross-Domain Modulation Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/document/11609314). IEEE TGRS, vol. 64, Art. No. 5631618, 2026.
 <!-- - ``TGRS 2026`` Dong Ren, Yang Zhang, **Wenbin Wang** *, Gui-Song Xia, and Xiang Bai. [CaUCD: Causal Unsupervised Change Detection](https://ieeexplore.ieee.org/document/11556470). IEEE TGRS, vol. 64, Art. No. 4410718, 2026. -->
