@@ -63,6 +63,19 @@ alt_url: /
 
 # 📝 论文发表
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='{{ "/images/SARNet.jpg" | relative_url }}' alt="SARNet 方法框架" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation](https://ieeexplore.ieee.org/document/11677219)
+
+**Wenbin Wang**, Yiheng Chen, Hang Sun, Dong Ren, Yansheng Li
+
+- 遥感图像通常包含多个功能子场景，而关系语义会受到目标间相对空间构型的显著影响。
+- SARNet 提出各向异性椭圆影响传播（AEIP），用于建模以目标为中心的空间影响并抑制带有噪声的长距离交互；同时利用相对空间构型注意力（RSCA）增强具有几何判别力的关系表征。
+- **代码发布**: [SARNet ![](https://img.shields.io/github/stars/Bamboo0216/SARNet?style=social&label=SARNet)](https://github.com/Bamboo0216/SARNet)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='{{ "/images/TGIR.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

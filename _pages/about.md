@@ -67,6 +67,19 @@ redirect_from:
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='{{ "/images/SARNet.jpg" | relative_url }}' alt="SARNet framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation](https://ieeexplore.ieee.org/document/11677219)
+
+**Wenbin Wang**, Yiheng Chen, Hang Sun, Dong Ren, Yansheng Li
+
+- Remote sensing images contain multiple functional subscenes, while relation semantics are strongly shaped by objects' relative spatial configurations.
+- SARNet introduces Anisotropic Ellipse Influence Propagation (AEIP) to model object-centered spatial influence and suppress noisy long-range interactions, together with Relative Spatial Configuration Attention (RSCA) to enhance geometry-discriminative relation representations.
+- **CODE release**: [SARNet ![](https://img.shields.io/github/stars/Bamboo0216/SARNet?style=social&label=SARNet)](https://github.com/Bamboo0216/SARNet)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='{{ "/images/TGIR.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
