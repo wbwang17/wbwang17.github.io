@@ -63,7 +63,14 @@ alt_url: /wiki/
 # 组内事项
 
 <div class="wiki-entry-list">
-  <p class="wiki-empty">待更新。</p>
+  {% assign lab_notes = site.wiki | where: "lang", "zh" | where: "category", "lab-matters" | where: "status", "published" | sort: "date" | reverse %}
+  {% if lab_notes.size > 0 %}
+    {% for note in lab_notes %}
+      {% include wiki-entry.html note=note %}
+    {% endfor %}
+  {% else %}
+    <p class="wiki-empty">待更新。</p>
+  {% endif %}
 </div>
 
 </section>

@@ -54,7 +54,7 @@ redirect_from:
 - *2026.07*: &nbsp; A paper is accepted by IEEE TGRS. 
 - *2026.05*: &nbsp; A paper is accepted by IEEE TGRS. 
 - *2025.12*: &nbsp; One paper is accepted by IEEE TCSVT.
-- *2024.12*: &nbsp; One paper is accepted by The Visual Computer (CCF-C).
+- *2024.12*: &nbsp; One paper is accepted by The Visual Computer.
 - *2023.05*: &nbsp; One paper on hierarchical SGG (SGoI) is accepted by IJCV.
 - *2022.07*: &nbsp; One paper is accepted by SCIENTIA SINICA Informationis.
 - *2021.07*: &nbsp; One paper on SGG and image captioning is accepted by ICCV 2021.
@@ -97,7 +97,7 @@ redirect_from:
 </div>
 </div>
 - ``TGRS 2026`` **Wenbin Wang**, Yiheng Chen, Hang Sun, Dong Ren, and Yansheng Li. [Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation](https://ieeexplore.ieee.org/document/11677219). IEEE TGRS, vol. 64, Art. No. xxxxxxx, 2026. [![](https://img.shields.io/github/stars/Bamboo0216/SARNet?style=social&label=SARNet)](https://github.com/Bamboo0216/SARNet)
-- ``JSTARS 2026`` Lu Wang, Chenxu Lou, Jing Wang, Junbo Yu, Lihua Zhao, Wenbin Wang, and Dong Ren. [Scale-aware Fusion and Spatial-Frequency Collaborative Network for Remote Sensing Imagery Semantic Segmentation](https://ieeexplore.ieee.org/document/11644392). IEEE TGRS, vol. 64, Art. No. xxxxxxx, 2026.
+- ``JSTARS 2026`` Lu Wang, Chenxu Lou, Jing Wang, Junbo Yu, Lihua Zhao, **Wenbin Wang**, and Dong Ren. [Scale-aware Fusion and Spatial-Frequency Collaborative Network for Remote Sensing Imagery Semantic Segmentation](https://ieeexplore.ieee.org/document/11644392). IEEE TGRS, vol. 64, Art. No. xxxxxxx, 2026.
 - ``TGRS 2026`` Hang Sun, Guanbo Feng, Bo Du, Yibing Zhan, Dong Ren, **Wenbin Wang** *, and Jun Wan. [Heterogeneous Prompting Cross-Domain Modulation Network for Remote Sensing Image Dehazing](https://ieeexplore.ieee.org/document/11609314). IEEE TGRS, vol. 64, Art. No. 5631618, 2026.
 <!-- - ``TGRS 2026`` Dong Ren, Yang Zhang, **Wenbin Wang** *, Gui-Song Xia, and Xiang Bai. [CaUCD: Causal Unsupervised Change Detection](https://ieeexplore.ieee.org/document/11556470). IEEE TGRS, vol. 64, Art. No. 4410718, 2026. -->
 - ``TGRS 2026`` Hang Sun, Runzhou Li, Chenyang Wang, Lefei Zhang, Dong Ren, and **Wenbin Wang** *. [Frequency-Domain Heterogeneous Rank-Entropy Bipolarization Network for Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11500502). IEEE TGRS, vol. 64, Art. No. 5621517, 2026.
