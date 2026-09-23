@@ -19,7 +19,14 @@ alt_url: /wiki/
 # 项目实例
 
 <div class="wiki-entry-list">
-  <p class="wiki-empty">待更新。</p>
+  {% assign project_examples = site.data.wiki_project_examples_zh %}
+  {% if project_examples.size > 0 %}
+    {% for project in project_examples %}
+      {% include wiki-project-entry.html project=project %}
+    {% endfor %}
+  {% else %}
+    <p class="wiki-empty">待更新。</p>
+  {% endif %}
 </div>
 
 </section>

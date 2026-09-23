@@ -214,6 +214,56 @@
     text-decoration: underline;
 }
 
+.wiki-project-entry {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: .5em 1.5em;
+}
+
+.wiki-project-entry__summary {
+    min-width: 0;
+}
+
+.wiki-project-entry__title {
+    font-weight: bold;
+}
+
+.wiki-project-entry__venue {
+    margin-left: .65em;
+    color: $gray;
+    font-size: .85em;
+    white-space: nowrap;
+}
+
+.wiki-project-entry__links {
+    display: flex;
+    flex: 0 0 auto;
+    gap: 1em;
+    white-space: nowrap;
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+}
+
+@media (max-width: 600px) {
+    .wiki-project-entry {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .wiki-project-entry__venue {
+        display: block;
+        margin-top: .15em;
+        margin-left: 0;
+    }
+}
+
 .wiki-new-badge {
     display: inline-block;
     box-sizing: border-box;

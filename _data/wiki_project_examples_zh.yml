@@ -1,0 +1,6 @@
+# 发布项目介绍帖后，将 detail_url 设置为对应的站内路径。
+- title: "Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation"
+  short_name: "SARNet"
+  venue: "IEEE TGRS 2026"
+  code_url: "https://github.com/Bamboo0216/SARNet"
+  detail_url: ""

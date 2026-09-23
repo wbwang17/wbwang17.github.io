@@ -1,0 +1,14 @@
+<article class="wiki-entry-card wiki-project-entry">
+  <div class="wiki-project-entry__summary">
+    <span class="wiki-project-entry__title">{{ include.project.short_name }}: {{ include.project.title }}</span>
+    {% if include.project.venue %}
+      <span class="wiki-project-entry__venue">{{ include.project.venue }}</span>
+    {% endif %}
+  </div>
+  <div class="wiki-project-entry__links">
+    <a href="{{ include.project.code_url }}" target="_blank" rel="noopener noreferrer">GitHub 代码</a>
+    {% if include.project.detail_url and include.project.detail_url != "" %}
+      <a href="{{ include.project.detail_url | relative_url }}" target="_self">项目介绍</a>
+    {% endif %}
+  </div>
+</article>
