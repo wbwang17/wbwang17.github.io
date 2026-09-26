@@ -14,6 +14,18 @@ alt_url: /team-members/
 
 <div class="members-grid">
   <article class="member-card">
+    <a class="member-card__avatar" href="https://bamboo0216.github.io/" target="_blank" rel="noopener" aria-label="Yiheng Chen 个人主页">
+      <img src="{{ '/images/members/yiheng_chen.jpg' | relative_url }}" alt="Yiheng Chen">
+    </a>
+    <h2><a href="https://bamboo0216.github.io/" target="_blank" rel="noopener">Yiheng Chen</a></h2>
+    <p class="member-card__interest">研究兴趣：待更新</p>
+    <div class="member-card__links">
+      <span class="member-card__icon member-card__icon--disabled" aria-label="邮箱待更新"><i class="fas fa-envelope" aria-hidden="true"></i></span>
+      <a class="member-card__icon" href="https://github.com/qikert-zhushu" target="_blank" rel="noopener" aria-label="Yiheng Chen GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
+    </div>
+  </article>
+
+  <article class="member-card">
     <a class="member-card__avatar" href="https://daffodil305.github.io/" target="_blank" rel="noopener" aria-label="Zhiwei Cai 个人主页">
       <!-- 成员头像统一放在 images/members/，例如 <img src="{{ '/images/members/zhiwei-cai.jpg' | relative_url }}" alt="Zhiwei Cai"> -->
       <i class="fas fa-user" aria-hidden="true"></i>
@@ -23,19 +35,6 @@ alt_url: /team-members/
     <div class="member-card__links">
       <span class="member-card__icon member-card__icon--disabled" aria-label="邮箱待更新"><i class="fas fa-envelope" aria-hidden="true"></i></span>
       <a class="member-card__icon" href="https://github.com/daffodil305" target="_blank" rel="noopener" aria-label="Zhiwei Cai GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
-    </div>
-  </article>
-
-  <article class="member-card">
-    <a class="member-card__avatar" href="https://qikert-zhushu.github.io/" target="_blank" rel="noopener" aria-label="Yiheng Chen 个人主页">
-      <!-- 成员头像统一放在 images/members/，例如 <img src="{{ '/images/members/yiheng-chen.jpg' | relative_url }}" alt="Yiheng Chen"> -->
-      <i class="fas fa-user" aria-hidden="true"></i>
-    </a>
-    <h2><a href="https://qikert-zhushu.github.io/" target="_blank" rel="noopener">Yiheng Chen</a></h2>
-    <p class="member-card__interest">研究兴趣：待更新</p>
-    <div class="member-card__links">
-      <span class="member-card__icon member-card__icon--disabled" aria-label="邮箱待更新"><i class="fas fa-envelope" aria-hidden="true"></i></span>
-      <a class="member-card__icon" href="https://github.com/qikert-zhushu" target="_blank" rel="noopener" aria-label="Yiheng Chen GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
     </div>
   </article>
 
