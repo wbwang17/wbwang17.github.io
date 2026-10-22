@@ -4,3 +4,8 @@
   venue: "IEEE TGRS 2026"
   code_url: "https://github.com/Bamboo0216/SARNet"
   detail_url: ""
+
+- title: "Real-Time Open-Vocabulary Relation Prediction From Any Inputs"
+  short_name: "RelateAnything"
+  code_url: "https://github.com/Maelic/RelateAnything"
+  detail_url: ""
